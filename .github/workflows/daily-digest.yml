@@ -19,7 +19,12 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
       - name: Fetch feeds and rebuild dashboard
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python scripts/fetch_and_build.py
 
       - name: Commit and push if changed
