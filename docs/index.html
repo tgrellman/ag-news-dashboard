@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AU &amp; NZ Agriculture News Digest</title>
+<style>
+  :root {
+    --bg: #f4f6f2; --card: #ffffff; --ink: #1f2a1a; --muted: #5c6b56;
+    --accent: #3f7d3f; --accent-dark: #2d5a2d; --border: #e0e5db;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; font-family: -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+    background: var(--bg); color: var(--ink);
+  }
+  header {
+    background: linear-gradient(135deg, var(--accent-dark), var(--accent));
+    color: #fff; padding: 28px 20px;
+  }
+  header h1 { margin: 0 0 4px; font-size: 1.6rem; }
+  header p { margin: 0; opacity: 0.9; font-size: 0.9rem; }
+  .wrap { max-width: 960px; margin: 0 auto; padding: 20px; }
+  .filters { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 20px; }
+  .filters button {
+    border: 1px solid var(--border); background: var(--card); color: var(--ink);
+    padding: 6px 14px; border-radius: 999px; cursor: pointer; font-size: 0.85rem;
+  }
+  .filters button.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 16px; }
+  .card {
+    background: var(--card); border: 1px solid var(--border); border-radius: 10px;
+    padding: 16px; display: flex; flex-direction: column; gap: 8px;
+  }
+  .card .meta { display: flex; justify-content: space-between; font-size: 0.75rem; color: var(--muted); }
+  .card .badge {
+    background: #eaf2e6; color: var(--accent-dark); padding: 2px 8px; border-radius: 999px; font-weight: 600;
+  }
+  .card a.title { font-size: 1.02rem; font-weight: 600; color: var(--ink); text-decoration: none; line-height: 1.35; }
+  .card a.title:hover { color: var(--accent-dark); text-decoration: underline; }
+  .card p.summary { margin: 0; font-size: 0.88rem; color: var(--muted); line-height: 1.4; }
+  .empty { text-align: center; color: var(--muted); padding: 60px 20px; }
+  footer { text-align: center; color: var(--muted); font-size: 0.8rem; padding: 30px 20px 50px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Australia &amp; New Zealand Agriculture News Digest</h1>
+  <p>44 articles from the last 36h &middot; generated 2026-07-01 23:25 UTC</p>
+</header>
+<div class="wrap">
+  <div class="filters" id="filters">
+    <button data-filter="all" class="active">All</button>
+    <button data-filter="AU">Australia</button>
+    <button data-filter="NZ">New Zealand</button>
+  </div>
+  <div class="grid" id="grid">
+    <div class="card" data-country="AU">
+      <div class="meta"><span class="badge">AU</span><span>Farm Weekly &middot; 55 min ago</span></div>
+      <a class="title" href="https://www.farmweekly.com.au/story/9301988/bob-iffla-bob-wiese-wa-mourns-two-influential-rural-voices/?src=rss" target="_blank" rel="noopener noreferrer">&#x27;Two Bobs&#x27; leave behind a legacy of dedication and service to rural WA</a>
+      <p class="summary">WA&#x27;s agricultural industry remembers two influential figures.</p>
+    </div>
+    <div class="card" data-country="NZ">
+      <div class="meta"><span class="badge">NZ</span><span>RNZ Country &middot; 1h ago</span></div>
+      <a class="title" href="https://www.rnz.co.nz/news/business/652866/the-trials-of-the-family-farm-exit" target="_blank" rel="noopener noreferrer">The trials of the family farm exit</a>
+      <p class="summary">After nearly 17 years on a Totara Valley farm, seventy-year-old Graham Peck and his wife Sharon can now enjoy the view of the South Canterbury property from the warmth and comfort of their retirement home.</p>
+    </div>
+    <div class="card" data-country="NZ">
+      <div class="meta"><span class="badge">NZ</span><span>Farmers Weekly NZ &middot; 1h ago</span></div>
+      <a class="title" href="https://www.farmersweekly.co.nz/markets/prices-rise-as-market-chases-prime-lambs/" target="_blank" rel="noopener noreferrer">Prices rise as market chases prime lambs</a>
+      <p class="summary">With current prices almost $2/kg higher than this time last year, lamb indicator prices are getting close to AFFCO’s winter contract for lambs. The post Prices rise as market chases prime lambs appeared first on Farmers Weekly .</p>
+    </div>
+    <div class="card" data-country="NZ">
+      <div class="meta"><span class="badge">NZ</span><span>Farmers Weekly NZ &middot; 1h ago</span></div>
+      <a class="title" href="https://www.farmersweekly.co.nz/politics/new-game-animal-law-sparks-conservation-debate/" target="_blank" rel="noopener noreferrer">New game animal law sparks conservation debate</a>
+      <p class="summary">Forest &amp; Bird has criticised the new law protecting herds of special interest, while the Government says it balances hunting and conservation. The post New game animal law sparks conservation debate appeared first on Farmers Weekly .</p>
+    </div>
+    <div class="card" data-country="NZ">
+      <div class="meta"><span class="badge">NZ</span><span>Farmers Weekly NZ &middot; 1h ago</span></div>
+      <a class="title" href="https://www.farmersweekly.co.nz/people/sister-act-as-trio-gear-up-for-agrikidsnz/" target="_blank" rel="noopener noreferrer">Sister act as trio gear up for AgriKidsNZ</a>
+      <p class="summary">A pair of twins and their younger sister have been training hard on their family’s sheep, beef and dairy farm in Taipuha. The post Sister act as trio gear up for AgriKidsNZ appeared first on Farmers Weekly .</p>
+    </div>
+    <div class="card" data-country="AU">
+      <div class="meta"><span class="badge">AU</span><span>The Land &middot; 1h ago</span></div>
+      <a class="title" href="https://www.theland.com.au/story/9302178/gleneagles-2353-hectare-new-england-farm-offers-versatility/?src=rss" target="_blank" rel="noopener noreferrer">Impressive Gleneagles developed for 1000 cows and followers | Video</a>
+      <p class="summary">Highly developed 5813 acre grazing enterprise built to perform.</p>
+    </div>
+    <div class="card" data-country="NZ">
+      <div class="meta"><span class="badge">NZ</span><span>Farmers Weekly NZ &middot; 2h ago</span></div>
+      <a class="title" href="https://www.farmersweekly.co.nz/news/el-nino-officially-arrives-with-drier-conditions-forecast/" target="_blank" rel="noopener noreferrer">El Niño officially arrives with drier conditions forecast</a>
+      <p class="summary">Scientists say El Niño is officially underway and may rival the strongest events recorded, influencing New Zealand&#x27;s weather. The post El Niño officially arrives with drier conditions forecast appeared first on Farmers Weekly .</p>
+    </div>
+    <div class="card" data-country="AU">
+      <div class="meta"><span class="badge">AU</span><span>The Land &middot; 2h ago</span></div>
+      <a class="title" href="https://www.theland.com.au/story/9302861/nsw-farmers-question-7-million-nsw-cattle-tick-program-funding/?src=rss" target="_blank" rel="noopener noreferrer">Not $7 million: more like half that, say Northern Rivers farmers fighting cattle tick</a>
+      <p class="summary">Tick-embattled farmers want clarity on NSW Cattle Tick Program budget.</p>
+    </div>
+    <div class="card" data-country="NZ">
+      <div class="meta"><span class="badge">NZ</span><span>Farmers Weekly NZ &middot; 2h ago</span></div>
+      <a class="title" href="https://www.farmersweekly.co.nz/news/weekly-poll-results/bird-flu-poll-results-june-25/" target="_blank" rel="noopener noreferrer">Bird Flu poll results – June 25</a>
+      <p class="summary">More than half of those who took the poll are satisfied with New Zealand’s preparation for bird flu. The post Bird Flu poll results – June 25 appeared first on Farmers Weekly .</p>
+    </div>
+    <div class="card" data-country="AU">
+      <div class="meta"><span class="badge">AU</span><span>The Land &middot; 3h ago</span></div>
+      <a class="title" href="https://www.theland.com.au/story/9302492/ben-walker-fourth-gen-farmer-reveals-tough-family-conversations/?src=rss" target="_blank" rel="noopener noreferrer">&#x27;I really struggled&#x27;: young farmer&#x27;s tough road to continue a farming legacy</a>
+      <p class="summary">Resilience is embedded in this Grenfell family&#x27;s farming operation.</p>
+    </div>
+    <div class="card" data-country="AU">
+      <div class="meta"><span class="badge">AU</span><span>The Land &middot; 3h ago</span></div>
+      <a class="title" href="https://www.theland.com.au/story/9302967/bayer-boss-says-us-court-ruling-brings-overdue-justice-for-roundup/?src=rss" target="_blank" rel="noopener noreferrer">Roundup cancer risk rejected: US Supreme Court hoses down litigation wave</a>
+      <p class="summary">Glyphosate health risk claims rebuffed again as US court backs Bayer.</p>
+    </div>
+    <div class="card" data-country="AU">
+      <div class="meta"><span class="badge">AU</span><span>Farm Weekly &middot; 3h ago</span></div>
+      <a class="title" href="https://www.farmweekly.com.au/story/9302967/bayer-boss-says-us-court-ruling-brings-overdue-justice-for-roundup/?src=rss" target="_blank" rel="noopener noreferrer">Roundup cancer risk rejected: US Supreme Court hoses down litigation wave</a>
+      <p class="summary">Glyphosate health risk claims rebuffed again as US court backs Bayer.</p>
+    </div>
+    <div class="card" data-country="AU">
+      <div class="meta"><span class="badge">AU</span><span>Stock &amp; Land &middot; 3h ago</span></div>
+      <a class="title" href="https://www.stockandland.com.au/story/9302967/bayer-boss-says-us-court-ruling-brings-overdue-justice-for-roundup/?src=rss" target="_blank" rel="noopener noreferrer">Roundup cancer risk rejected: US Supreme Court hoses down litigation wave</a>
+      <p class="summary">Glyphosate health risk claims rebuffed again as US court backs Bayer.</p>
+    </div>
+    <div class="card" data-country="AU">
+      <div class="meta"><span class="badge">AU</span><span>Stock &amp; Land &middot; 3h ago</span></div>
+      <a class="title" href="https://www.stockandland.com.au/story/9302602/australias-feedlots-eye-25-million-cattle-by-2035-target/?src=rss" target="_blank" rel="noopener noreferrer">&#x27;Major swing&#x27;: how a feedlot industry shift will drive demand for feeder cattle</a>
+      <p class="summary">As feedlot growth fires ahead, how will producers benefit?</p>
+    </div>
+    <div class="card" data-country="AU">
+      <div class="meta"><span class="badge">AU</span><span>The Land &middot; 4h ago</span></div>
+      <a class="title" href="https://www.theland.com.au/story/9301816/episode-3-processor-margins-lift-but-remain-well-below-last-years-highs/?src=rss" target="_blank" rel="noopener noreferrer">Episode 3: processor margins lift, but remain well below last year&#x27;s highs</a>
+      <p class="summary">Processor cow prices recorded the largest correction, declining by 14pc.</p>
+    </div>
+    <div class="card" data-country="AU">
+      <div class="meta"><span class="badge">AU</span><span>Farm Weekly &middot; 4h ago</span></div>
+      <a class="title" href="https://www.farmweekly.com.au/story/9301816/episode-3-processor-margins-lift-but-remain-well-below-last-years-highs/?src=rss" target="_blank" rel="noopener noreferrer">Episode 3: processor margins lift, but remain well below last year&#x27;s highs</a>
+      <p class="summary">Processor cow prices recorded the largest correction, declining by 14pc.</p>
+    </div>
+    <div class="card" data-country="AU">
+      <div class="meta"><span class="badge">AU</span><span>Stock &amp; Land &middot; 4h ago</span></div>
+      <a class="title" href="https://www.stockandland.com.au/story/9301816/episode-3-processor-margins-lift-but-remain-well-below-last-years-highs/?src=rss" target="_blank" rel="noopener noreferrer">Episode 3: processor margins lift, but remain well below last year&#x27;s highs</a>
+      <p class="summary">Processor cow prices recorded the largest correction, declining by 14pc.</p>
+    </div>
+    <div class="card" data-country="AU">
+      <div class="meta"><span class="badge">AU</span><span>Farm Weekly &middot; 14h ago</span></div>
+      <a class="title" href="https://www.farmweekly.com.au/story/9301839/chef-yakup-iron-chef-winner-champions-australian-lamb-in-bangkok/?src=rss" target="_blank" rel="noopener noreferrer">Meet the Iron Chef championing WA lamb in a Bangkok high-profile restaurant</a>
+      <p class="summary">This top chef&#x27;s secret ingredient? The story of WA sheep farmers.</p>
+    </div>
+    <div class="card" data-country="NZ">
+      <div class="meta"><span class="badge">NZ</span><span>Farmers Weekly NZ &middot; 17h ago</span></div>
+      <a class="title" href="https://www.farmersweekly.co.nz/markets/forestry-sector-sees-signs-of-recovery-as-fuel-costs-ease/" target="_blank" rel="noopener noreferrer">Forestry sector sees signs of recovery as fuel costs ease</a>
+      <p class="summary">After months of pressure, easing fuel prices are providing some relief for New Zealand&#x27;s forestry sector. The post Forestry sector sees signs of recovery as fuel costs ease appeared first on Farmers Weekly .</p>
+    </div>
+    <div class="card" data-country="AU">
+      <div class="meta"><span class="badge">AU</span><span>Beef Central &middot; 17h ago</span></div>
+      <a class="title" href="https://www.beefcentral.com/news/how-an-elite-bbq-pitmaster-became-one-of-aussie-beefs-biggest-advocates/" target="_blank" rel="noopener noreferrer">How an elite BBQ pitmaster became one of Aussie beef’s biggest advocates</a>
+      <p class="summary">Australia has helped shape new international food labelling guidance that will support food trade during emergencies and promote a consistent approach to providing precautionary allergen information to consumers.</p>
+    </div>
+    <div class="card" data-country="AU">
+      <div class="meta"><span class="badge">AU</span><span>Stock &amp; Land &middot; 17h ago</span></div>
+      <a class="title" href="https://www.stockandland.com.au/story/9302826/omeos-brendan-ah-sam-finds-six-year-old-cow-sucking-another-cow/?src=rss" target="_blank" rel="noopener noreferrer">High country bovine besties take &#x27;sharing the milk&#x27; a little too literally</a>
+      <p class="summary">A farmer discovered one of his cows drinking milk from another cow.</p>
+    </div>
+    <div class="card" data-country="AU">
+      <div class="meta"><span class="badge">AU</span><span>Stock &amp; Land &middot; 17h ago</span></div>
+      <a class="title" href="https://www.stockandland.com.au/story/9302908/strong-prices-draw-out-more-cattle-for-the-july-euroa-store-sale/?src=rss" target="_blank" rel="noopener noreferrer">Vendors take advantage of strong prices in larger-than-normal Euroa sale</a>
+      <p class="summary">Euroa agents report a strong store sale with high feedlot demand.</p>
+    </div>
+    <div class="card" data-country="AU">
+      <div class="meta"><span class="badge">AU</span><span>Beef Central &middot; 18h ago</span></div>
+      <a class="title" href="https://www.beefcentral.com/news/dalby-producers-agents-hope-for-biosecurity-boost-as-first-sale-with-tick-fee-goes-ahead/" target="_blank" rel="noopener noreferrer">Producers, agents hope for biosecurity boost as first Dalby sale with “ticky cattle penalty” goes ahead</a>
+      <p class="summary">A new cattle tick fee is in place as of today at Australia’s second largest saleyards, in an effort to bolster the selling centres biosecurity.</p>
+    </div>
+    <div class="card" data-country="AU">
+      <div class="meta"><span class="badge">AU</span><span>Stock &amp; Land &middot; 18h ago</span></div>
+      <a class="title" href="https://www.stockandland.com.au/story/9302741/western-district-property-sells-for-64-million-defying-trends/?src=rss" target="_blank" rel="noopener noreferrer">Premier Casterton rural property sells for $6.4 million in a strong result</a>
+      <p class="summary">Casterton cattle property changes hands for $6.4m.</p>
+    </div>
+    <div class="card" data-country="AU">
+      <div class="meta"><span class="badge">AU</span><span>The Land &middot; 18h ago</span></div>
+      <a class="title" href="https://www.theland.com.au/story/9302941/media-boss-antony-catalano-to-fight-charges-after-allegedly-bashing-wife/?src=rss" target="_blank" rel="noopener noreferrer">Media boss Antony Catalano to fight charges after allegedly bashing wife</a>
+      <p class="summary">Catalano&#x27;s family violence case delayed until October.</p>
+    </div>
+    <div class="card" data-country="AU">
+      <div class="meta"><span class="badge">AU</span><span>Farm Weekly &middot; 18h ago</span></div>
+      <a class="title" href="https://www.farmweekly.com.au/story/9302941/media-boss-antony-catalano-to-fight-charges-after-allegedly-bashing-wife/?src=rss" target="_blank" rel="noopener noreferrer">Media boss Antony Catalano to fight charges after allegedly bashing wife</a>
+      <p class="summary">Catalano&#x27;s family violence case delayed until October.</p>
+    </div>
+    <div class="card" data-country="AU">
+      <div class="meta"><span class="badge">AU</span><span>Stock &amp; Land &middot; 18h ago</span></div>
+      <a class="title" href="https://www.stockandland.com.au/story/9302941/media-boss-antony-catalano-to-fight-charges-after-allegedly-bashing-wife/?src=rss" target="_blank" rel="noopener noreferrer">Media boss Antony Catalano to fight charges after allegedly bashing wife</a>
+      <p class="summary">Catalano&#x27;s family violence case delayed until October.</p>
+    </div>
+    <div class="card" data-country="AU">
+      <div class="meta"><span class="badge">AU</span><span>Farm Weekly &middot; 18h ago</span></div>
+      <a class="title" href="https://www.farmweekly.com.au/story/9301851/vv-walsh-unveils-new-data-program-for-wa-lamb-producers/?src=rss" target="_blank" rel="noopener noreferrer">The world wants Aussie lamb all year round, how can WA make it happen?</a>
+      <p class="summary">A panel talks supply, logistics and data driven decisions.</p>
+    </div>
+    <div class="card" data-country="NZ">
+      <div class="meta"><span class="badge">NZ</span><span>Farmers Weekly NZ &middot; 18h ago</span></div>
+      <a class="title" href="https://www.farmersweekly.co.nz/markets/bull-sales-heading-for-strong-finish/" target="_blank" rel="noopener noreferrer">Bull sales heading for strong finish</a>
+      <p class="summary">Good clearances and strong prices recorded as season nears its close. The post Bull sales heading for strong finish appeared first on Farmers Weekly .</p>
+    </div>
+    <div class="card" data-country="NZ">
+      <div class="meta"><span class="badge">NZ</span><span>Farmers Weekly NZ &middot; 18h ago</span></div>
+      <a class="title" href="https://www.farmersweekly.co.nz/news/arable/new-federated-farmers-arable-chief-sees-green-shoots/" target="_blank" rel="noopener noreferrer">New Federated Farmers arable chief sees green shoots</a>
+      <p class="summary">However, quite a few changes are needed to get sector back on track, says Chris Dillon. The post New Federated Farmers arable chief sees green shoots appeared first on Farmers Weekly .</p>
+    </div>
+    <div class="card" data-country="AU">
+      <div class="meta"><span class="badge">AU</span><span>The Land &middot; 19h ago</span></div>
+      <a class="title" href="https://www.theland.com.au/story/9302615/rothesay-nsw-1525-million-blue-ribbon-property-hits-market/?src=rss" target="_blank" rel="noopener noreferrer">Blue-ribbon South West Slopes country listed for $15.25 million | Video</a>
+      <p class="summary">Cropping, improved pastures and first-class infrastructure.</p>
+    </div>
+    <div class="card" data-country="AU">
+      <div class="meta"><span class="badge">AU</span><span>The Land &middot; 20h ago</span></div>
+      <a class="title" href="https://www.theland.com.au/story/9302530/ariah-park-bs-ball-end-of-an-era-after-legendary-40-year-run/?src=rss" target="_blank" rel="noopener noreferrer">Dust, denim, and drama: Riverina B&amp;S comes to a close after four decades</a>
+      <p class="summary">Four decades of shenanigans will culminate in one last ride.</p>
+    </div>
+    <div class="card" data-country="NZ">
+      <div class="meta"><span class="badge">NZ</span><span>Farmers Weekly NZ &middot; 20h ago</span></div>
+      <a class="title" href="https://www.farmersweekly.co.nz/news/interest-rate-cuts-help-to-flatten-on-farm-inflation/" target="_blank" rel="noopener noreferrer">Interest rate cuts help to flatten on-farm inflation</a>
+      <p class="summary">With interest costs excluded, annual underlying on-farm inflation to March rose 3.9% – against a Consumer Price Index increase of 3.1%. The post Interest rate cuts help to flatten on-farm inflation appeared first on Farmers Weekly .</p>
+    </div>
+    <div class="card" data-country="AU">
+      <div class="meta"><span class="badge">AU</span><span>Beef Central &middot; 20h ago</span></div>
+      <a class="title" href="https://www.beefcentral.com/news/lifting-productivity-key-to-lowering-herd-methane-producers-told/" target="_blank" rel="noopener noreferrer">Lifting productivity key to lowering herd methane, producers told</a>
+      <p class="summary">Improving fertility, accelerating turnoff and moderating mature cow size remain the most effective ways for cattle producers to reduce methane emissions while lifting profitability, producers at a Champion Station field day near Blackall were told on Tuesday.</p>
+    </div>
+    <div class="card" data-country="AU">
+      <div class="meta"><span class="badge">AU</span><span>Stock &amp; Land &middot; 20h ago</span></div>
+      <a class="title" href="https://www.stockandland.com.au/story/9302718/frestine-dairy-australia-drops-suppliers-and-seeks-new-ones-in-sudden-move/?src=rss" target="_blank" rel="noopener noreferrer">Dairy processor seeks new suppliers days after terminating existing contracts</a>
+      <p class="summary">Frestine Dairy Australia&#x27;s sudden move has surprised the industry.</p>
+    </div>
+    <div class="card" data-country="NZ">
+      <div class="meta"><span class="badge">NZ</span><span>Farmers Weekly NZ &middot; 20h ago</span></div>
+      <a class="title" href="https://www.farmersweekly.co.nz/markets/uptick-in-mated-hinds-lifts-deer-hopes/" target="_blank" rel="noopener noreferrer">Uptick in mated hinds lifts deer hopes</a>
+      <p class="summary">Industry buoyed as 3% increase comes after a decade of declining numbers in farmed deer. The post Uptick in mated hinds lifts deer hopes appeared first on Farmers Weekly .</p>
+    </div>
+    <div class="card" data-country="AU">
+      <div class="meta"><span class="badge">AU</span><span>Stock &amp; Land &middot; 21h ago</span></div>
+      <a class="title" href="https://www.stockandland.com.au/story/9302473/three-cold-fronts-spark-flood-warnings-in-northern-victoria/?src=rss" target="_blank" rel="noopener noreferrer">Early warnings prove vital as Victorian farmers threatened with flash flooding</a>
+      <p class="summary">A significant weather system is impacting northern Victoria.</p>
+    </div>
+    <div class="card" data-country="AU">
+      <div class="meta"><span class="badge">AU</span><span>The Land &middot; 21h ago</span></div>
+      <a class="title" href="https://www.theland.com.au/story/9302258/nsw-farmers-record-low-frosts-deliver-agricultural-windfall/?src=rss" target="_blank" rel="noopener noreferrer">&#x27;A saving grace&#x27;: mild start to winter gives NSW producers a helping hand</a>
+      <p class="summary">Warm winter boosts farmer optimism across NSW.</p>
+    </div>
+    <div class="card" data-country="NZ">
+      <div class="meta"><span class="badge">NZ</span><span>Rural News Group &middot; 22h ago</span></div>
+      <a class="title" href="https://www.ruralnewsgroup.co.nz/rural-news/rural-general-news/waikato-waters-begins-operations-waikato" target="_blank" rel="noopener noreferrer">Waikato Waters Begins Operations Across Waikato Region</a>
+      <p class="summary">Today marks the first day of operations for Waikato Waters, a new council-controlled organisation established by six district councils to deliver water and wastewater services for their communities. Neil Brennan, interim chief executive of Waikato Waters, says the launch…</p>
+    </div>
+    <div class="card" data-country="NZ">
+      <div class="meta"><span class="badge">NZ</span><span>Rural News Group &middot; 1d ago</span></div>
+      <a class="title" href="https://www.ruralnewsgroup.co.nz/rural-news/rural-general-news/mpi-greenhouse-gas-inventory-research-funding-2026" target="_blank" rel="noopener noreferrer">MPI Opens $3m Greenhouse Gas Research Funding Round</a>
+      <p class="summary">The Ministry for Primary Industries (MPI) has announced has opened applications for the 2026/27 funding round of the Greenhouse Gas Inventory Research (GHGIR) fund. The fund makes $3 million available for new projects.</p>
+    </div>
+    <div class="card" data-country="AU">
+      <div class="meta"><span class="badge">AU</span><span>Farm Weekly &middot; 1d ago</span></div>
+      <a class="title" href="https://www.farmweekly.com.au/story/9301488/marchagee-farms-5497-hectare-wa-aggregation-poised-for-growth/?src=rss" target="_blank" rel="noopener noreferrer">In the medium rainfall zone Marchagee Farms property gets renewed attention</a>
+      <p class="summary">Elders Real Estate is marketing Marchagee Farms for millions</p>
+    </div>
+    <div class="card" data-country="AU">
+      <div class="meta"><span class="badge">AU</span><span>The Land &middot; 1d ago</span></div>
+      <a class="title" href="https://www.theland.com.au/story/9301707/angus-heifers-rebuild-begins-as-restocker-bids-lift-statewide/?src=rss" target="_blank" rel="noopener noreferrer">Market risks no obstacle to restockers as top dollar heifer gamble begins</a>
+      <p class="summary">Tight supply following sell-off puts the restocker in a precarious position.</p>
+    </div>
+    <div class="card" data-country="AU">
+      <div class="meta"><span class="badge">AU</span><span>The Land &middot; 1d ago</span></div>
+      <a class="title" href="https://www.theland.com.au/story/9301549/dr-john-quin-sydneys-top-immunologist-and-menangle-dairy-farmer/?src=rss" target="_blank" rel="noopener noreferrer">The doctor and his cows: top Sydney immunologist has a dual life in dairy</a>
+      <p class="summary">Dr John Quin has spent a lifetime managing two careers - medicine and dairy cows.</p>
+    </div>
+    <div class="card" data-country="AU">
+      <div class="meta"><span class="badge">AU</span><span>Stock &amp; Land &middot; 1d ago</span></div>
+      <a class="title" href="https://www.stockandland.com.au/story/9301714/optimising-feedlot-conditions-to-get-lambs-to-gain-400-grams-a-day/?src=rss" target="_blank" rel="noopener noreferrer">&#x27;Geared for performance&#x27;: how to get lambs to gain 400 grams a day in a feedlot</a>
+      <p class="summary">A western district producer shares his hard-won feedlot secrets.</p>
+    </div>
+  </div>
+  
+</div>
+<footer>Sources: Beef Central, Farm Weekly, Farmers Weekly NZ, RNZ Country, Rural News Group, Stock & Land, The Land. Summaries are auto-extracted excerpts, not AI-generated.</footer>
+<script>
+  const buttons = document.querySelectorAll('#filters button');
+  const cards = document.querySelectorAll('#grid .card');
+  buttons.forEach(btn => {
+    btn.addEventListener('click', () => {
+      buttons.forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      const filter = btn.dataset.filter;
+      cards.forEach(c => {
+        c.style.display = (filter === 'all' || c.dataset.country === filter) ? '' : 'none';
+      });
+    });
+  });
+</script>
+</body>
+</html>

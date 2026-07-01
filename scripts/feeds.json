@@ -1,0 +1,9 @@
+[
+  { "name": "Beef Central", "country": "AU", "url": "https://www.beefcentral.com/news/feed" },
+  { "name": "The Land", "country": "AU", "url": "https://www.theland.com.au/rss.xml" },
+  { "name": "Farm Weekly", "country": "AU", "url": "https://www.farmweekly.com.au/rss.xml" },
+  { "name": "Stock & Land", "country": "AU", "url": "https://www.stockandland.com.au/rss.xml" },
+  { "name": "Farmers Weekly NZ", "country": "NZ", "url": "https://www.farmersweekly.co.nz/feed" },
+  { "name": "RNZ Country", "country": "NZ", "url": "https://www.rnz.co.nz/rss/country.xml" },
+  { "name": "Rural News Group", "country": "NZ", "url": "https://feeds.feedburner.com/RuralNews" }
+]
