@@ -1,9 +1,72 @@
 [
   {
+    "title": "How fake emergencies are building a rural health workforce",
+    "link": "https://www.farmersweekly.co.nz/news/how-fake-emergencies-are-building-a-rural-health-workforce/",
+    "description_clean": "Young doctors in Ashburton are gaining experience they might not get in larger hospitals, including treating injuries unique to farming communities. The post How fake emergencies are building a rural health workforce appeared first on Farmers Weekly .",
+    "summary": "Young doctors in Ashburton are gaining rural medical experience through simulated emergencies, including treating farming-related injuries not commonly seen in larger hospitals.",
+    "published": "2026-08-29T21:49:07+00:00",
+    "source": "Farmers Weekly NZ",
+    "country": "NZ"
+  },
+  {
+    "title": "How will this year\u2019s record\u2011breaking El Ni\u00f1o affect NZ and the world? Five things to know",
+    "link": "https://www.farmersweekly.co.nz/opinion/how-will-this-years-record-breaking-el-nino-affect-nz-and-the-world-five-things-to-know/",
+    "description_clean": "A potentially record-breaking El Ni\u00f1o could bring a dry year for parts of New Zealand, increasing drought and wildfire risks and putting pressure on agriculture. The post How will this year\u2019s record\u2011breaking El Ni\u00f1o affect NZ and the world? Five things to know appeared first on Farmers Weekly .",
+    "summary": "A potentially record-breaking El Ni\u00f1o could bring dry conditions to parts of New Zealand, raising drought and wildfire risks and pressuring agriculture.",
+    "published": "2026-08-29T21:39:05+00:00",
+    "source": "Farmers Weekly NZ",
+    "country": "NZ"
+  },
+  {
+    "title": "Virtual fencing transforms century-old family farm",
+    "link": "https://www.farmersweekly.co.nz/farm-management/sheep-and-beef-farm-management/virtual-fencing-transforms-century-old-family-farm/",
+    "description_clean": "George and Julia Hardwick-Smith have brought new ideas home to Kohonui, using virtual fencing to unlock hill country and lift farm returns. The post Virtual fencing transforms century-old family farm appeared first on Farmers Weekly .",
+    "summary": "George and Julia Hardwick-Smith have implemented virtual fencing at their family farm Kohonui to make use of hill country and improve farm returns.",
+    "published": "2026-08-29T21:37:29+00:00",
+    "source": "Farmers Weekly NZ",
+    "country": "NZ"
+  },
+  {
+    "title": "'Communities crying out': Dusty's incredible 500km journey for kids in the bush",
+    "link": "https://www.theland.com.au/story/9338386/dusty-from-warren-12-year-olds-500km-walk-to-help-kids/?src=rss",
+    "description_clean": "Dusty's $1m mission to bring hope to kids in the bush.",
+    "summary": "Dusty is undertaking a 500km, $1 million journey to support children in rural and remote communities.",
+    "published": "2026-08-29T20:30:00+00:00",
+    "source": "The Land",
+    "country": "AU"
+  },
+  {
+    "title": "'Lovely milestone': Wheatbelt grower group celebrates 25 years",
+    "link": "https://www.farmweekly.com.au/story/9336268/facey-group-wickepin-milestone-marks-25-years-of-grower-support/?src=rss",
+    "description_clean": "\"We're going strong, we've got the opportunity to grow further.\"",
+    "summary": "A Wheatbelt grower group is celebrating its 25th anniversary, citing ongoing strength and opportunities for further growth.",
+    "published": "2026-08-29T10:00:00+00:00",
+    "source": "Farm Weekly",
+    "country": "AU"
+  },
+  {
+    "title": "\"Increasing productivity\": Harvest clinics to bring practical solutions",
+    "link": "https://www.farmweekly.com.au/story/9336835/western-australia-grdc-tackles-300m-annual-grain-losses/?src=rss",
+    "description_clean": "What are some of the biggest challenges for harvest this year?",
+    "summary": "Harvest clinics are being offered to provide practical solutions and address challenges facing growers this harvest season.",
+    "published": "2026-08-29T04:00:00+00:00",
+    "source": "Farm Weekly",
+    "country": "AU"
+  },
+  {
+    "title": "Salmon farm tackles Twizel worker housing shortage",
+    "link": "https://www.farmersweekly.co.nz/news/salmon-farm-tackles-twizel-worker-housing-shortage/",
+    "description_clean": "High Country Salmon is securing rental homes for its growing workforce as a shortage of worker accommodation threatens to limit its Twizel operation. The post Salmon farm tackles Twizel worker housing shortage appeared first on Farmers Weekly .",
+    "summary": "High Country Salmon is securing rental housing for its growing workforce as a worker accommodation shortage threatens its Twizel operation.",
+    "published": "2026-08-29T03:59:48+00:00",
+    "source": "Farmers Weekly NZ",
+    "country": "NZ"
+  },
+  {
     "title": "Tech ready to take the wheel and drive productivity",
     "link": "https://www.farmersweekly.co.nz/technology/tech-ready-to-take-the-wheel-and-drive-productivity/",
     "description_clean": "Local agritech heroes are creating \u2018an innovation network that links global investment to the farm gate\u2019. The post Tech ready to take the wheel and drive productivity appeared first on Farmers Weekly .",
-    "summary": "Local agritech companies are developing an innovation network aimed at connecting global investment to farms to boost productivity.",
+    "summary": "Local agritech innovators are developing a network connecting global investment to farms to boost productivity.",
     "published": "2026-08-29T02:46:00+00:00",
     "source": "Farmers Weekly NZ",
     "country": "NZ"
@@ -12,7 +75,7 @@
     "title": "Hugh Jackson opens up about pressure after Young Farmer win",
     "link": "https://www.farmersweekly.co.nz/lifestyle/wellbeing/hugh-jackson-opens-up-about-pressure-after-young-farmer-win/",
     "description_clean": "Even an acknowledged farming champion can wrestle with self-doubt, as 2025 Young Farmer of the Year Hugh Jackson knows all too well. The post Hugh Jackson opens up about pressure after Young Farmer win appeared first on Farmers Weekly .",
-    "summary": "Hugh Jackson, the 2025 Young Farmer of the Year, discusses the self-doubt and pressure he has experienced despite his win.",
+    "summary": "Hugh Jackson, the 2025 Young Farmer of the Year, has spoken about the pressure and self-doubt he has experienced following his win.",
     "published": "2026-08-29T00:45:00+00:00",
     "source": "Farmers Weekly NZ",
     "country": "NZ"
@@ -21,7 +84,7 @@
     "title": "Controversial government plan sees mandate labelled as fuel carbon tax",
     "link": "https://www.farmweekly.com.au/story/9336593/federal-government-fuel-industry-plan-raising-wa-cost-fears/?src=rss",
     "description_clean": "LCLF and fuel supply sovereignty part of new carbon tax debate.",
-    "summary": "A government plan involving the Low Carbon Liquid Fuel mandate and fuel supply sovereignty has been labelled a fuel carbon tax amid debate.",
+    "summary": "A government plan involving low carbon liquid fuel (LCLF) and fuel supply sovereignty has been criticised as effectively a fuel carbon tax.",
     "published": "2026-08-28T23:00:00+00:00",
     "source": "Farm Weekly",
     "country": "AU"
@@ -30,7 +93,7 @@
     "title": "Rates cap raises questions over council merger costs",
     "link": "https://www.farmersweekly.co.nz/politics/rates-cap-raises-questions-over-council-merger-costs/",
     "description_clean": "Selwyn mayor questions how councils will fund amalgamation and new functions under the planned rates cap. The post Rates cap raises questions over council merger costs appeared first on Farmers Weekly .",
-    "summary": "Selwyn's mayor has raised concerns about how councils will fund amalgamation and new functions under a planned rates cap.",
+    "summary": "Selwyn's mayor has questioned how councils will fund amalgamation and new functions under a planned rates cap.",
     "published": "2026-08-28T22:30:00+00:00",
     "source": "Farmers Weekly NZ",
     "country": "NZ"
@@ -39,7 +102,7 @@
     "title": "Country Life: How two fake rooms inside Ashburton Hospital are helping keep rural medicine alive",
     "link": "https://www.rnz.co.nz/news/country/1168565/country-life-how-two-fake-rooms-inside-ashburton-hospital-are-helping-keep-rural-medicine-alive",
     "description_clean": "Rural hospitals face numerous challenges, from low staff numbers to farm-related injuries. A dedicated group of doctors are helping the next generation prepare.",
-    "summary": "Two simulated rooms inside Ashburton Hospital are being used to train the next generation of rural doctors, who face challenges including staff shortages and farm-related injuries.",
+    "summary": "Two simulation rooms at Ashburton Hospital are being used to train the next generation of doctors in rural medicine, addressing challenges such as staff shortages and farm-related injuries.",
     "published": "2026-08-28T22:28:17+00:00",
     "source": "RNZ Country",
     "country": "NZ"
@@ -48,7 +111,7 @@
     "title": "Hands off our lentil crop, strict proviso on Mallee farm block's sale",
     "link": "https://www.stockandland.com.au/story/9338600/woorinen-south-land-258ha-mallee-farm-has-horticulture-potential/?src=rss",
     "description_clean": "Victorian farm sale comes with a catch for this year's harvest.",
-    "summary": "A Victorian Mallee farm block is being sold with a condition attached regarding this year's lentil harvest.",
+    "summary": "A Victorian farm sale in the Mallee comes with a condition regarding this year's lentil harvest.",
     "published": "2026-08-28T22:00:00+00:00",
     "source": "Stock & Land",
     "country": "AU"
@@ -57,7 +120,7 @@
     "title": "Flexibility key: planning for dry times when everyone's drought is different",
     "link": "https://www.theland.com.au/story/9339136/bob-freebairn-shares-critical-drought-management-lessons/?src=rss",
     "description_clean": "Past lessons that might help with the next big drought in NSW.",
-    "summary": "The article reflects on past drought lessons that could aid planning for future dry periods in NSW, emphasising flexibility.",
+    "summary": "An article discusses past lessons and the importance of flexibility in planning for future droughts in NSW, noting that drought conditions vary between individuals.",
     "published": "2026-08-28T20:30:00+00:00",
     "source": "The Land",
     "country": "AU"
@@ -66,306 +129,9 @@
     "title": "Country Life: Technograzing and virtual fences on a Taranaki farm",
     "link": "https://www.rnz.co.nz/news/country/1168602/country-life-technograzing-and-virtual-fences-on-a-taranaki-farm",
     "description_clean": "Introducing virtual fencing and other technology has helped the Hardwick-Smith family double the profitability of some parts of their sheep and beef business.",
-    "summary": "The Hardwick-Smith family in Taranaki has doubled the profitability of parts of their sheep and beef business by introducing virtual fencing and technograzing.",
+    "summary": "The Hardwick-Smith family in Taranaki has doubled the profitability of parts of their sheep and beef business by introducing virtual fencing and technograzing technology.",
     "published": "2026-08-28T19:43:56+00:00",
     "source": "RNZ Country",
     "country": "NZ"
-  },
-  {
-    "title": "Interstate buyers drive Redbank Angus sale to new heights with increased numbers",
-    "link": "https://www.theland.com.au/story/9339600/redbank-angus-2026-top-price-average-full-sale-results/?src=rss",
-    "description_clean": "A larger offering of bulls met with strong demand.",
-    "summary": "The Redbank Angus sale reached new heights with an increased offering of bulls meeting strong demand driven by interstate buyers.",
-    "published": "2026-08-28T10:14:50+00:00",
-    "source": "The Land",
-    "country": "AU"
-  },
-  {
-    "title": "Buyers from four states chase carcase and structure at Ironbark Hereford sale",
-    "link": "https://www.theland.com.au/story/9339306/ironbark-herefords-2026-top-price-average-sale-results/?src=rss",
-    "description_clean": "Bidders across four states lead to strong top at Ironbark.",
-    "summary": "Buyers from four states created strong competition and a strong top price at the Ironbark Hereford sale, chasing carcase and structure.",
-    "published": "2026-08-28T09:42:00+00:00",
-    "source": "The Land",
-    "country": "AU"
-  },
-  {
-    "title": "Interstate buyers drive fierce competition on Shorthorns, Charolais at Futurity sale",
-    "link": "https://www.theland.com.au/story/9339208/futurity-pastorall-2026-top-prices-average-clearance/?src=rss",
-    "description_clean": "An SA stud paid the top price for a bull with elite calving ease.",
-    "summary": "Interstate buyers drove fierce competition on Shorthorns and Charolais at the Futurity sale, with an SA stud paying the top price for a bull with elite calving ease.",
-    "published": "2026-08-28T09:15:20+00:00",
-    "source": "The Land",
-    "country": "AU"
-  },
-  {
-    "title": "How these farmers cut their work hours down and boosted capacity by 30pc",
-    "link": "https://www.farmweekly.com.au/story/9334956/david-and-kevina-richardson-virtual-fencing-slashes-farm-work/?src=rss",
-    "description_clean": "David and Kevina Richardson have been named state finalists in the Australian Agriculture Awards in the Sustainability in Agriculture category.",
-    "summary": "David and Kevina Richardson, who cut their work hours and boosted capacity by 30 per cent, have been named state finalists in the Sustainability in Agriculture category of the Australian Agriculture Awards.",
-    "published": "2026-08-28T08:00:00+00:00",
-    "source": "Farm Weekly",
-    "country": "AU"
-  },
-  {
-    "title": "Hoped-for rainfall drives restockers back and prices up at Tamworth store sale",
-    "link": "https://www.theland.com.au/story/9339446/rain-brings-restockers-back-to-dearer-tamworth-store-sale/?src=rss",
-    "description_clean": "Tamworth is sitting on the fence of two very different seasons, agents say.",
-    "summary": "Hoped-for rainfall brought restockers back and drove prices up at the Tamworth store sale, with agents noting the region sits between two contrasting seasons.",
-    "published": "2026-08-28T07:19:37+00:00",
-    "source": "The Land",
-    "country": "AU"
-  },
-  {
-    "title": "Yahgunya Cotton delivers 2439 acres of laser levelled cultivation country",
-    "link": "https://www.theland.com.au/story/9339148/yahgunya-cotton-987-hectares-of-prime-cultivation-land/?src=rss",
-    "description_clean": "Productive grey/black self-mulching soils and some red loams.",
-    "summary": "Yahgunya Cotton offers 2439 acres of laser-levelled cultivation country with productive grey/black self-mulching soils and some red loams.",
-    "published": "2026-08-28T06:00:00+00:00",
-    "source": "The Land",
-    "country": "AU"
-  },
-  {
-    "title": "A beef powerhouse with growth potential: What a group of Aussies learned in South America",
-    "link": "https://www.beefcentral.com/news/a-beef-powerhouse-with-growth-potential-what-a-group-of-aussies-learned-in-south-america/",
-    "description_clean": "The untapped production potential of South America despite already being a beef producing powerhouse, and Brazil\u2019s intense interest in expanding its export beef footprint into South East Asia, were among several messages a group of Australian cattle industry stakeholders returned with after visiting the region in recent weeks.",
-    "summary": "A group of Australian cattle industry stakeholders returned from South America with observations about the region's untapped production potential and Brazil's interest in expanding beef exports into South East Asia.",
-    "published": "2026-08-28T05:30:58+00:00",
-    "source": "Beef Central",
-    "country": "AU"
-  },
-  {
-    "title": "Recruitment: Workforce plan highlights skills needed to sustain livestock industry",
-    "link": "https://www.beefcentral.com/news/recruitment-news/recruitment-workforce-plan-highlights-skills-needed-to-sustain-livestock-industry/",
-    "description_clean": "Skills Insight, a Jobs & Skills Council funded by the Federal Government targeting the agribusiness, food, fibre, animal and environmental care industries, has released its Workforce Plan 2026\u20132027. The document identifies challenges including ageing workforces, seasonal work patterns and lack of appeal among some for working in regional areas",
-    "summary": "Skills Insight, a federally funded Jobs & Skills Council, has released its Workforce Plan 2026\u20132027, identifying challenges including ageing workforces, seasonal work patterns and low appeal of regional work.",
-    "published": "2026-08-28T05:26:53+00:00",
-    "source": "Beef Central",
-    "country": "AU"
-  },
-  {
-    "title": "Bindawarra Merino stud doubles sale average in strong Gippsland auction",
-    "link": "https://www.stockandland.com.au/story/9338954/bindawarra-merino-stud-average-soars-year-on-year-in-2026-sale/?src=rss",
-    "description_clean": "The top Giffard West ram is headed to Flinders Island.",
-    "summary": "The Bindawarra Merino stud doubled its sale average at a strong Gippsland auction, with the top Giffard West ram headed to Flinders Island.",
-    "published": "2026-08-28T04:45:11+00:00",
-    "source": "Stock & Land",
-    "country": "AU"
-  },
-  {
-    "title": "New RMA rules could spark resource scramble",
-    "link": "https://www.farmersweekly.co.nz/politics/new-rma-rules-could-spark-resource-scramble/",
-    "description_clean": "Environmental lawyer flags risks inherent in legislation now making its way through Parliament. The post New RMA rules could spark resource scramble appeared first on Farmers Weekly .",
-    "summary": "An environmental lawyer has flagged risks in new Resource Management Act rules currently progressing through Parliament, warning they could spark a resource scramble.",
-    "published": "2026-08-28T04:36:00+00:00",
-    "source": "Farmers Weekly NZ",
-    "country": "NZ"
-  },
-  {
-    "title": "Spotlight: how this sheep farmer is using renewables to de-risk his operation",
-    "link": "https://www.farmweekly.com.au/story/9334871/tim-stevenson-470-mw-wind-farm-future-proofs-wa-farm-business/?src=rss",
-    "description_clean": "Tim Stevenson has been named a state Sustainability in Agriculture finalist in the Australian Agriculture Awards.",
-    "summary": "Sheep farmer Tim Stevenson, who is using renewables to reduce risk in his operation, has been named a state finalist in the Sustainability in Agriculture category of the Australian Agriculture Awards.",
-    "published": "2026-08-28T04:30:00+00:00",
-    "source": "Farm Weekly",
-    "country": "AU"
-  },
-  {
-    "title": "Strong competition for 'exceptional' yarding of cattle at Bairnsdale sale",
-    "link": "https://www.stockandland.com.au/story/9339329/strong-bidding-at-bairnsdale-for-exceptional-quality-cattle/?src=rss",
-    "description_clean": "Rain in the past week contributed to the quality of the cattle.",
-    "summary": "Recent rain contributed to the quality of an 'exceptional' cattle yarding at the Bairnsdale sale, which attracted strong competition.",
-    "published": "2026-08-28T04:20:00+00:00",
-    "source": "Stock & Land",
-    "country": "AU"
-  },
-  {
-    "title": "From classroom idea to rural mental health fundraiser",
-    "link": "https://www.farmersweekly.co.nz/news/from-classroom-idea-to-rural-mental-health-fundraiser/",
-    "description_clean": "What started as a school assignment has become a rural clothing venture, with five students donating half of their proceeds to Farmstrong. The post From classroom idea to rural mental health fundraiser appeared first on Farmers Weekly .",
-    "summary": "A school assignment has evolved into a rural clothing venture run by five students who are donating half of their proceeds to Farmstrong, a rural mental health organisation.",
-    "published": "2026-08-28T04:18:09+00:00",
-    "source": "Farmers Weekly NZ",
-    "country": "NZ"
-  },
-  {
-    "title": "'Just walk in': how an AgQuip health check saved this rural contractor's life",
-    "link": "https://www.theland.com.au/story/9337568/agquip-health-check-saves-contractors-life-from-melanoma/?src=rss",
-    "description_clean": "\"You value being resilient ... and I nearly toughed myself into a grave.\"",
-    "summary": "A rural contractor credits an AgQuip health check with saving his life, describing how his resilience nearly cost him his health.",
-    "published": "2026-08-28T04:00:00+00:00",
-    "source": "The Land",
-    "country": "AU"
-  },
-  {
-    "title": "McClay seeks end to Tair\u0101whiti forestry \u2018blame game\u2019",
-    "link": "https://www.farmersweekly.co.nz/politics/mcclay-seeks-end-to-tairawhiti-forestry-blame-game/",
-    "description_clean": "Best way to rebuild trust is to have forest companies, land owners, iwi, council, and the community \u2018all talking to each other\u2019. The post McClay seeks end to Tair\u0101whiti forestry \u2018blame game\u2019 appeared first on Farmers Weekly .",
-    "summary": "Minister McClay is seeking to end the 'blame game' over Tair\u0101whiti forestry by encouraging forest companies, landowners, iwi, council and the community to talk together to rebuild trust.",
-    "published": "2026-08-28T03:30:00+00:00",
-    "source": "Farmers Weekly NZ",
-    "country": "NZ"
-  },
-  {
-    "title": "Delegat declares steady wine sales growth",
-    "link": "https://www.farmersweekly.co.nz/markets/delegat-declares-steady-wine-sales-growth/",
-    "description_clean": "Case sales were 3.3 million in FY26 and the forecast is for 3.4 million this year. The post Delegat declares steady wine sales growth appeared first on Farmers Weekly .",
-    "summary": "Delegat reported steady wine sales growth, with case sales of 3.3 million in FY26 and a forecast of 3.4 million this year.",
-    "published": "2026-08-28T03:30:00+00:00",
-    "source": "Farmers Weekly NZ",
-    "country": "NZ"
-  },
-  {
-    "title": "Understanding the red meat industry\u2019s secret weapon: The Maillard reaction",
-    "link": "https://www.beefcentral.com/news/understanding-the-red-meat-industrys-secret-weapon-the-maillard-reaction/",
-    "description_clean": "Every beef-lover has experienced it: the deeply-satisfying sensory experience of eating the burnt ends on a piece of slow-cooked brisket, or the crispy edge on a well-barbecued T-bone steak. Both are examples of one of the true miracles of food science - the Maillard reaction.",
-    "summary": "The article explains the Maillard reaction, the food science process behind the flavour of well-cooked beef, describing it as the red meat industry's secret weapon.",
-    "published": "2026-08-28T03:27:14+00:00",
-    "source": "Beef Central",
-    "country": "AU"
-  },
-  {
-    "title": "We need to take a united stand against pests",
-    "link": "https://www.farmersweekly.co.nz/opinion/we-need-to-take-a-united-stand-against-pests/",
-    "description_clean": "With taxpayers unlikely to come to the rescue, success in the war on pests requires a co-ordinated approach involving all landowners, writes Neal Wallace. The post We need to take a united stand against pests appeared first on Farmers Weekly .",
-    "summary": "Neal Wallace argues that, with taxpayer funding unlikely, success in pest control requires a coordinated approach involving all landowners.",
-    "published": "2026-08-28T03:08:26+00:00",
-    "source": "Farmers Weekly NZ",
-    "country": "NZ"
-  },
-  {
-    "title": "Amazon LEO: NBN reveals two-year Sky Muster replacement plans",
-    "link": "https://www.theland.com.au/story/9339029/amazon-leo-nbn-customers-to-gain-lower-latency-new-speeds/?src=rss",
-    "description_clean": "Your guide to the Sky Muster transition as NBN promises less lag.",
-    "summary": "NBN has revealed a two-year plan to transition Sky Muster satellite services to Amazon's LEO network, promising reduced lag.",
-    "published": "2026-08-28T02:09:56+00:00",
-    "source": "The Land",
-    "country": "AU"
-  },
-  {
-    "title": "Amazon LEO: NBN reveals two-year Sky Muster replacement plans",
-    "link": "https://www.farmweekly.com.au/story/9339029/amazon-leo-nbn-customers-to-gain-lower-latency-new-speeds/?src=rss",
-    "description_clean": "Your guide to the Sky Muster transition as NBN promises less lag.",
-    "summary": "NBN has revealed a two-year plan to transition Sky Muster satellite services to Amazon's LEO network, promising reduced lag.",
-    "published": "2026-08-28T02:09:56+00:00",
-    "source": "Farm Weekly",
-    "country": "AU"
-  },
-  {
-    "title": "Amazon LEO: NBN reveals two-year Sky Muster replacement plans",
-    "link": "https://www.stockandland.com.au/story/9339029/amazon-leo-nbn-customers-to-gain-lower-latency-new-speeds/?src=rss",
-    "description_clean": "Your guide to the Sky Muster transition as NBN promises less lag.",
-    "summary": "NBN has revealed a two-year plan to transition Sky Muster satellite services to Amazon's LEO network, promising reduced lag.",
-    "published": "2026-08-28T02:09:56+00:00",
-    "source": "Stock & Land",
-    "country": "AU"
-  },
-  {
-    "title": "Sweet taste of success in Comvita result",
-    "link": "https://www.farmersweekly.co.nz/markets/sweet-taste-of-success-in-comvita-result/",
-    "description_clean": "Honey company \u2018standing on firmer ground\u2019 as it returns to profit in 2026 financial year. The post Sweet taste of success in Comvita result appeared first on Farmers Weekly .",
-    "summary": "Honey company Comvita has returned to profit in the 2026 financial year, describing itself as standing on firmer ground.",
-    "published": "2026-08-28T02:05:00+00:00",
-    "source": "Farmers Weekly NZ",
-    "country": "NZ"
-  },
-  {
-    "title": "'Have to make a choice': gun laws mean tough calls for pest animal control",
-    "link": "https://www.theland.com.au/story/9336034/firearms-laws-could-mean-tough-decisions-in-feral-animal-control/?src=rss",
-    "description_clean": "The feral control panel talked about capacity, compliance and firearms.",
-    "summary": "A feral control panel discussed how gun laws affect pest animal control, addressing capacity, compliance and firearms issues.",
-    "published": "2026-08-28T02:00:00+00:00",
-    "source": "The Land",
-    "country": "AU"
-  },
-  {
-    "title": "\u2018Farmers don\u2019t quit easily\u2019: Mark Cameron\u2019s emotional farewell",
-    "link": "https://www.farmersweekly.co.nz/politics/farmers-dont-quit-easily-mark-camerons-emotional-farewell/",
-    "description_clean": "ACT MP and Northland farmer Mark Cameron has farewelled Parliament, reflecting on his health battle, farming and his determination to keep fighting for rural NZ. The post \u2018Farmers don\u2019t quit easily\u2019: Mark Cameron\u2019s emotional farewell appeared first on Farmers Weekly .",
-    "summary": "ACT MP and Northland farmer Mark Cameron has farewelled Parliament, reflecting on his health battle, farming background and commitment to rural New Zealand.",
-    "published": "2026-08-28T01:49:19+00:00",
-    "source": "Farmers Weekly NZ",
-    "country": "NZ"
-  },
-  {
-    "title": "Significant investment in fencing, water, livestock-handling infrastructure",
-    "link": "https://www.theland.com.au/story/9337305/aitken-100km-new-fencing-vast-water-system-boosts-value/?src=rss",
-    "description_clean": "More than 100km of new fencing has been constructed.",
-    "summary": "A property has seen significant investment in infrastructure, including more than 100km of new fencing along with water and livestock-handling improvements.",
-    "published": "2026-08-28T01:00:00+00:00",
-    "source": "The Land",
-    "country": "AU"
-  },
-  {
-    "title": "Market lessons: holding grain is not free, so here's how to do the sums",
-    "link": "https://www.theland.com.au/story/9336931/grain-storage-hidden-costs-impact-market-strategy-for-growers/?src=rss",
-    "description_clean": "Waiting for a market rally can sometimes cost you more.",
-    "summary": "The article explains how to calculate the costs of holding grain while waiting for a market rally, noting that storage is not free.",
-    "published": "2026-08-28T00:00:00+00:00",
-    "source": "The Land",
-    "country": "AU"
-  },
-  {
-    "title": "Market lessons: holding grain is not free, so here's how to do the sums",
-    "link": "https://www.farmweekly.com.au/story/9336931/grain-storage-hidden-costs-impact-market-strategy-for-growers/?src=rss",
-    "description_clean": "Waiting for a market rally can sometimes cost you more.",
-    "summary": "The article explains how to calculate the costs of holding grain while waiting for a market rally, noting that storage is not free.",
-    "published": "2026-08-28T00:00:00+00:00",
-    "source": "Farm Weekly",
-    "country": "AU"
-  },
-  {
-    "title": "Market lessons: holding grain is not free, so here's how to do the sums",
-    "link": "https://www.stockandland.com.au/story/9336931/grain-storage-hidden-costs-impact-market-strategy-for-growers/?src=rss",
-    "description_clean": "Waiting for a market rally can sometimes cost you more.",
-    "summary": "The article explains how to calculate the costs of holding grain while waiting for a market rally, noting that storage is not free.",
-    "published": "2026-08-28T00:00:00+00:00",
-    "source": "Stock & Land",
-    "country": "AU"
-  },
-  {
-    "title": "Burnley Aggregation a proven pasture and weight-gain performer | Video",
-    "link": "https://www.theland.com.au/story/9338812/burnley-aggregation-376ha-property-offers-proven-productivity/?src=rss",
-    "description_clean": "Proven ability to produce productive pasture and finish cattle.",
-    "summary": "The Burnley Aggregation is presented as a proven performer in producing productive pasture and finishing cattle for weight gain.",
-    "published": "2026-08-27T22:00:00+00:00",
-    "source": "The Land",
-    "country": "AU"
-  },
-  {
-    "title": "Tried and tested: award finalist's secret to profitable, low-input farming",
-    "link": "https://www.farmweekly.com.au/story/9334828/brendon-savage-sustainability-australian-agriculture-awards/?src=rss",
-    "description_clean": "Brendon Savage has been named as a finalist in the Sustainability in Agriculture category of the Australian Agriculture Awards.",
-    "summary": "Brendon Savage, known for profitable low-input farming, has been named a finalist in the Sustainability in Agriculture category of the Australian Agriculture Awards.",
-    "published": "2026-08-27T22:00:00+00:00",
-    "source": "Farm Weekly",
-    "country": "AU"
-  },
-  {
-    "title": "'No grass, no graze': how a Walgett grazier brought Mitchell grass back from the dead",
-    "link": "https://www.theland.com.au/story/9338965/fairlands-native-grass-returns-after-walgetts-1974-flood/?src=rss",
-    "description_clean": "Could ancient grains secure a farm's future?",
-    "summary": "A Walgett grazier has restored Mitchell grass on his property, with the article exploring whether ancient grains could secure the farm's future.",
-    "published": "2026-08-27T20:45:00+00:00",
-    "source": "The Land",
-    "country": "AU"
-  },
-  {
-    "title": "More than markets: fee hike highlights saleyards' critical community role",
-    "link": "https://www.theland.com.au/story/9337949/grafton-saleyards-producers-hit-by-71pc-fee-hike-fear-trade-loss/?src=rss",
-    "description_clean": "Experts call for new approach to livestock exchange categorisation.",
-    "summary": "A fee hike has highlighted the critical community role of saleyards, with experts calling for a new approach to livestock exchange categorisation.",
-    "published": "2026-08-27T20:00:00+00:00",
-    "source": "The Land",
-    "country": "AU"
-  },
-  {
-    "title": "Turning farm waste into liquid gold helps the Bayleys make every cent count",
-    "link": "https://www.stockandland.com.au/story/9338709/bayleys-turning-waste-into-liquid-gold-to-make-every-cent-count/?src=rss",
-    "description_clean": "The Bayleys have built a highly efficient, multi-enterprise operation.",
-    "summary": "The Bayley family has built a highly efficient multi-enterprise operation, turning farm waste into a valuable resource to maximise returns.",
-    "published": "2026-08-27T20:00:00+00:00",
-    "source": "Stock & Land",
-    "country": "AU"
   }
 ]
