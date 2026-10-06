@@ -1,72 +1,378 @@
 [
   {
-    "title": "Feds welcome Labour move on sharemilking law",
-    "link": "https://www.farmersweekly.co.nz/news/dairy/feds-welcome-labour-move-on-sharemilking-law/",
-    "description_clean": "Labour has committed to reviewing the Sharemilking Agreements Act, as Federated Farmers pushes for contract milkers to gain greater protections under modernised legislation. The post Feds welcome Labour move on sharemilking law appeared first on Farmers Weekly .",
-    "summary": "Labour has committed to reviewing the Sharemilking Agreements Act, with Federated Farmers pushing for contract milkers to gain greater protections under modernised legislation.",
-    "published": "2026-10-06T01:10:39+00:00",
+    "title": "Four generations in pursuit of the perfect sheep",
+    "link": "https://www.farmersweekly.co.nz/farm-management/sheep-and-beef-farm-management/four-generations-in-pursuit-of-the-perfect-sheep/",
+    "description_clean": "For 106 years, the Morton family has bred rams at Paki-iti Farms, adapting breeds and technology while staying true to the principles that started it all. The post Four generations in pursuit of the perfect sheep appeared first on Farmers Weekly .",
+    "summary": "The Morton family has bred rams at Paki-iti Farms for 106 years, spanning four generations while adapting breeds and technology.",
+    "published": "2026-10-06T23:30:00+00:00",
     "source": "Farmers Weekly NZ",
+    "country": "NZ"
+  },
+  {
+    "title": "Walter Peak station vegetation fire spreads",
+    "link": "https://www.farmersweekly.co.nz/news/walter-peak-station-vegetation-fire-spreads/",
+    "description_clean": "Protection of homestead and farm stock remains the priority, says FENZ. The post Walter Peak station vegetation fire spreads appeared first on Farmers Weekly .",
+    "summary": "A vegetation fire is spreading at Walter Peak station, with Fire and Emergency NZ prioritising protection of the homestead and farm stock.",
+    "published": "2026-10-06T23:30:00+00:00",
+    "source": "Farmers Weekly NZ",
+    "country": "NZ"
+  },
+  {
+    "title": "Branxton Park a quality grazing operation with major subdivision upside",
+    "link": "https://www.theland.com.au/story/9362643/branxton-park-grazing-holding-listed-with-17-lot-approval/?src=rss",
+    "description_clean": "Offered with the added bonus of approved subdivision potential.",
+    "summary": "Branxton Park, a quality grazing operation, is being offered for sale with approved subdivision potential.",
+    "published": "2026-10-06T22:00:00+00:00",
+    "source": "The Land",
+    "country": "AU"
+  },
+  {
+    "title": "WA Merino breeding ewe saleyard record broken, as flock rebuild accelerates",
+    "link": "https://www.farmweekly.com.au/story/9363920/wa-merino-ewe-record-broken-as-352-corrigin-sale-draws-buyers/?src=rss",
+    "description_clean": "Local and interstate demand pushed breeding prices to new highs.",
+    "summary": "A Western Australia saleyard record for Merino breeding ewes was broken as local and interstate demand pushed prices to new highs amid an accelerating flock rebuild.",
+    "published": "2026-10-06T22:00:00+00:00",
+    "source": "Farm Weekly",
+    "country": "AU"
+  },
+  {
+    "title": "NZ dairy season starts with record milk collections",
+    "link": "https://www.farmersweekly.co.nz/markets/dairy-markets/nz-dairy-season-starts-with-record-milk-collections/",
+    "description_clean": "Dairy markets balance stronger supply with protein demand and growing weather risks, writes Cristina Alvarado. The post NZ dairy season starts with record milk collections appeared first on Farmers Weekly .",
+    "summary": "The New Zealand dairy season has started with record milk collections, as markets balance stronger supply against protein demand and weather risks, writes Cristina Alvarado.",
+    "published": "2026-10-06T22:00:00+00:00",
+    "source": "Farmers Weekly NZ",
+    "country": "NZ"
+  },
+  {
+    "title": "What we learned from the first leaders\u2019 debate",
+    "link": "https://www.farmersweekly.co.nz/politics/what-we-learned-from-the-first-leaders-debate/",
+    "description_clean": "Christopher Luxon and Chris Hipkins clashed over the cost of living, health, education and tax in the first leaders\u2019 debate of the election campaign. The post What we learned from the first leaders\u2019 debate appeared first on Farmers Weekly .",
+    "summary": "Christopher Luxon and Chris Hipkins clashed over cost of living, health, education and tax in the first leaders' debate of the New Zealand election campaign.",
+    "published": "2026-10-06T21:56:56+00:00",
+    "source": "Farmers Weekly NZ",
+    "country": "NZ"
+  },
+  {
+    "title": "Making Farming A Matter of 'Core National Resilience",
+    "link": "https://www.ruralnewsgroup.co.nz/rural-news/rural-opinion/rowarth-farming-core-national-resilience",
+    "description_clean": "OPINION: New British Prime Minister Andy Burnham has said that farming and food production is a matter of \u2018core national resilience\u2019 and must be spoken about in Whitehall at the same level as issues with \u2018defence, energy, water and steel\u2019. The PM indicated the importance of the primary sector when talking to journalists after announcing the government\u2019s drought relief support package of \u00a365m for farmers hit by the drought. He was then asked whether there would be increased funding for the Department of Food, Environment and Rural Affairs (Defra) in the next budget. Although he didn\u2019t answer di",
+    "summary": "British Prime Minister Andy Burnham described farming and food production as a matter of 'core national resilience' while announcing a \u00a365m drought relief package for farmers.",
+    "published": "2026-10-06T21:55:55+00:00",
+    "source": "Rural News Group",
+    "country": "NZ"
+  },
+  {
+    "title": "The Heart of Rural Wellbeing",
+    "link": "https://www.ruralnewsgroup.co.nz/rural-news/rural-opinion/sam-whitelock-belonging-matters-rural-wellbeing",
+    "description_clean": "Sam Whitelock is an All Black rugby great, Farmstrong Ambassador and working dairy farmer in the Manawatu. Having stepped away from professional sport and returned to his roots on the family farm, he talks about balancing farm life with advocating for rural wellbeing. OPINION: When I hung up my boots and stepped back onto the farm, I left behind a world where belonging was built in every day. In professional rugby, we are in each other\u2019s pockets. We wear the same jersey, speak the same language, and rely on each other on the pitch. Moving back into farming was a massive shift for me, both in r",
+    "summary": "All Black rugby great, Farmstrong Ambassador and dairy farmer Sam Whitelock reflects on balancing farm life with advocating for rural wellbeing after leaving professional sport.",
+    "published": "2026-10-06T20:55:55+00:00",
+    "source": "Rural News Group",
+    "country": "NZ"
+  },
+  {
+    "title": "Canterbury farmers hit by pivot irrigator thefts",
+    "link": "https://www.farmersweekly.co.nz/news/canterbury-farmers-hit-by-pivot-irrigator-thefts/",
+    "description_clean": "Canterbury farmers are being urged to check their pivot irrigators after thieves began stripping copper wiring from the machines, risking electrocution and costly damage. The post Canterbury farmers hit by pivot irrigator thefts appeared first on Farmers Weekly .",
+    "summary": "Canterbury farmers are being urged to check their pivot irrigators after thieves began stripping copper wiring, risking electrocution and costly damage.",
+    "published": "2026-10-06T20:21:36+00:00",
+    "source": "Farmers Weekly NZ",
+    "country": "NZ"
+  },
+  {
+    "title": "Skim milk powder leads GDT market",
+    "link": "https://www.farmersweekly.co.nz/markets/dairy-markets/skim-milk-powder-leads-gdt-market/",
+    "description_clean": "Worldwide protein demand flips the script, with skim milk powder an unprecedented $242 higher than whole milk. The post Skim milk powder leads GDT market appeared first on Farmers Weekly .",
+    "summary": "Skim milk powder led the GDT market, priced an unprecedented US$242 higher than whole milk powder amid strong worldwide protein demand.",
+    "published": "2026-10-06T20:01:19+00:00",
+    "source": "Farmers Weekly NZ",
+    "country": "NZ"
+  },
+  {
+    "title": "Editorial: No Small Challenge",
+    "link": "https://www.ruralnewsgroup.co.nz/rural-news/rural-opinion/editorial-red-meat-sector-navigating-volatility",
+    "description_clean": "OPINION: There could hardly be a more appropriate theme for a conference than the one chosen by the red meat sector - Navigating Volatility. In just two words it summed up what not only this sector but in fact the whole world is facing. Think of the multiple threats emanating from the Middle East, the war in Ukraine, the unpredictability of Donald J Trump and the rapid rise in trade protectionism and the erosion of rules-based trade. Then overlay that with climate change and more frequent adverse weather events, be they droughts or floods. At the same time, the red meat sector is having to loo",
+    "summary": "An editorial reflects on the red meat sector's 'Navigating Volatility' conference theme, citing geopolitical threats, trade protectionism and climate change as challenges facing the sector.",
+    "published": "2026-10-06T19:55:55+00:00",
+    "source": "Rural News Group",
+    "country": "NZ"
+  },
+  {
+    "title": "Northern restockers weigh up the economics of trade heifers versus breeders",
+    "link": "https://www.theland.com.au/story/9363292/nsw-cattle-sales-why-dry-season-shifts-buyers-to-trade-stock/?src=rss",
+    "description_clean": "Uncertainty about weather pushes restockers away from breeders.",
+    "summary": "Northern restockers are weighing the economics of trade heifers versus breeders, with weather uncertainty pushing them away from breeders.",
+    "published": "2026-10-06T19:45:00+00:00",
+    "source": "The Land",
+    "country": "AU"
+  },
+  {
+    "title": "'I didn't even bother': buyers concerned as another Far West station sold to NPWS",
+    "link": "https://www.theland.com.au/story/9363852/pulgamurtie-station-sale-sparks-pastoralist-land-price-fears/?src=rss",
+    "description_clean": "NSW National Parks: Pulgamurtie Station joins the list of 'locked up' pastoral runs.",
+    "summary": "Pulgamurtie Station in the NSW Far West has been sold to National Parks and Wildlife Service, raising concerns among buyers about pastoral runs being 'locked up'.",
+    "published": "2026-10-06T19:00:00+00:00",
+    "source": "The Land",
+    "country": "AU"
+  },
+  {
+    "title": "Spring supply surge cools young cattle values as processors hold back",
+    "link": "https://www.theland.com.au/story/9362934/australian-cattle-market-saleyard-supply-surge-hits-prices/?src=rss",
+    "description_clean": "Spring yardings have jumped across every state in the latest data.",
+    "summary": "A spring supply surge has cooled young cattle values as processors hold back, with yardings jumping across every state in the latest data.",
+    "published": "2026-10-06T19:00:00+00:00",
+    "source": "The Land",
+    "country": "AU"
+  },
+  {
+    "title": "Spring supply surge cools young cattle values as processors hold back",
+    "link": "https://www.farmweekly.com.au/story/9362934/australian-cattle-market-saleyard-supply-surge-hits-prices/?src=rss",
+    "description_clean": "Spring yardings have jumped across every state in the latest data.",
+    "summary": "A spring supply surge has cooled young cattle values as processors hold back, with yardings jumping across every state in the latest data.",
+    "published": "2026-10-06T19:00:00+00:00",
+    "source": "Farm Weekly",
+    "country": "AU"
+  },
+  {
+    "title": "'Skewed the wrong way': breeders demand Borthwick drops subjective live judging",
+    "link": "https://www.stockandland.com.au/story/9363207/melbourne-royal-show-faces-calls-to-overhaul-borthwick-trophy/?src=rss",
+    "description_clean": "A major stud boycotted the competition this year.",
+    "summary": "Breeders are demanding the Borthwick competition drop subjective live judging, with a major stud boycotting the competition this year.",
+    "published": "2026-10-06T19:00:00+00:00",
+    "source": "Stock & Land",
+    "country": "AU"
+  },
+  {
+    "title": "Spring supply surge cools young cattle values as processors hold back",
+    "link": "https://www.stockandland.com.au/story/9362934/australian-cattle-market-saleyard-supply-surge-hits-prices/?src=rss",
+    "description_clean": "Spring yardings have jumped across every state in the latest data.",
+    "summary": "A spring supply surge has cooled young cattle values as processors hold back, with yardings jumping across every state in the latest data.",
+    "published": "2026-10-06T19:00:00+00:00",
+    "source": "Stock & Land",
+    "country": "AU"
+  },
+  {
+    "title": "Wagyu prices are rebounding - but individual genetics, specs now matter",
+    "link": "https://www.theland.com.au/story/9363165/episode-3-wagyu-survey-shows-cattle-price-gains-in-q2-2026/?src=rss",
+    "description_clean": "The recovery has not been completely smooth, particularly for Fullblood cattle.",
+    "summary": "Wagyu prices are rebounding, though the recovery has not been smooth, particularly for Fullblood cattle, with individual genetics and specifications now mattering more.",
+    "published": "2026-10-06T18:00:00+00:00",
+    "source": "The Land",
+    "country": "AU"
+  },
+  {
+    "title": "Wagyu prices are rebounding - but individual genetics, specs now matter",
+    "link": "https://www.farmweekly.com.au/story/9363165/episode-3-wagyu-survey-shows-cattle-price-gains-in-q2-2026/?src=rss",
+    "description_clean": "The recovery has not been completely smooth, particularly for Fullblood cattle.",
+    "summary": "Wagyu prices are rebounding, though the recovery has not been smooth, particularly for Fullblood cattle, with individual genetics and specifications now mattering more.",
+    "published": "2026-10-06T18:00:00+00:00",
+    "source": "Farm Weekly",
+    "country": "AU"
+  },
+  {
+    "title": "Wagyu prices are rebounding - but individual genetics, specs now matter",
+    "link": "https://www.stockandland.com.au/story/9363165/episode-3-wagyu-survey-shows-cattle-price-gains-in-q2-2026/?src=rss",
+    "description_clean": "The recovery has not been completely smooth, particularly for Fullblood cattle.",
+    "summary": "Wagyu prices are rebounding, though the recovery has not been smooth, particularly for Fullblood cattle, with individual genetics and specifications now mattering more.",
+    "published": "2026-10-06T18:00:00+00:00",
+    "source": "Stock & Land",
+    "country": "AU"
+  },
+  {
+    "title": "Fears copper thieves targeting pivot irrigators could end up being killed",
+    "link": "https://www.rnz.co.nz/news/country/1774660/fears-copper-thieves-targeting-pivot-irrigators-could-end-up-being-killed",
+    "description_clean": "A Canterbury irrigation specialist fears thieves targeting large pivot irrigators for their copper wiring may end up being killed. Farms with pivot irrigators across Canterbury have been targeted by thieves...",
+    "summary": "A Canterbury irrigation specialist fears thieves targeting pivot irrigators for copper wiring may be killed, as farms across the region have been targeted.",
+    "published": "2026-10-06T17:42:11+00:00",
+    "source": "RNZ Country",
+    "country": "NZ"
+  },
+  {
+    "title": "VentureFruit launches family of apples bred to cope with hotter growing conditions",
+    "link": "https://www.rnz.co.nz/news/business/1772801/venturefruit-launches-family-of-apples-bred-to-cope-with-hotter-growing-conditions",
+    "description_clean": "ADORE is an umbrella brand covering several apple varieties developed through the Hot Climate Partnership, a breeding programme involving organisations in New Zealand and Catalonia.",
+    "summary": "VentureFruit has launched ADORE, an umbrella brand of apple varieties bred to cope with hotter growing conditions through the Hot Climate Partnership involving New Zealand and Catalonia.",
+    "published": "2026-10-06T15:45:11+00:00",
+    "source": "RNZ Country",
+    "country": "NZ"
+  },
+  {
+    "title": "How five special kelpie pups gave sick country kids a new sense of purpose",
+    "link": "https://www.farmweekly.com.au/story/9363919/perth-royal-show-kelpies-for-kids-raises-26k-for-telethon/?src=rss",
+    "description_clean": "Kelpies for Kids young trainers fetch top dollar for auction.",
+    "summary": "Five kelpie pups trained through the Kelpies for Kids program, which gives sick country children purpose, fetched top prices at auction.",
+    "published": "2026-10-06T11:30:00+00:00",
+    "source": "Farm Weekly",
+    "country": "AU"
+  },
+  {
+    "title": "New and repeat buyers chase rams with growth and muscle at Aberdeen and Hovell",
+    "link": "https://www.theland.com.au/story/9363777/aberdeen-and-hovell-2026-ram-sale-results-top-price-and-average/?src=rss",
+    "description_clean": "Poll Dorset and Composite rams were on offer at the Burrumbuttock studs.",
+    "summary": "New and repeat buyers sought rams with growth and muscle at the Aberdeen and Hovell Burrumbuttock studs, which offered Poll Dorset and Composite rams.",
+    "published": "2026-10-06T07:00:00+00:00",
+    "source": "The Land",
+    "country": "AU"
+  },
+  {
+    "title": "Fencing materials manufacturer named Australia\u2019s most trusted agribusiness brand",
+    "link": "https://www.beefcentral.com/news/fencing-materials-manufacturer-named-australias-most-trusted-agribusiness-brand/",
+    "description_clean": "Market research company Roy Morgan has completed its annual survey of Australia\u2019s most trusted agribusiness brands, announcing fencing materials manufacturer Waratah as the winner for 2026.",
+    "summary": "Roy Morgan's annual survey named fencing materials manufacturer Waratah as Australia's most trusted agribusiness brand for 2026.",
+    "published": "2026-10-06T06:25:09+00:00",
+    "source": "Beef Central",
+    "country": "AU"
+  },
+  {
+    "title": "Diesel where it matters: Regions must be heart of national fuel reserve",
+    "link": "https://www.beefcentral.com/news/diesel-where-it-matters-regions-must-be-heart-of-national-fuel-reserve/",
+    "description_clean": "The Livestock, Bulk and Rural Carriers Association is calling on the Australian Government to ensure its proposed Australian Fuel Security Reserve (AFSR) delivers diesel where it is needed in regional, rural and remote Australia.",
+    "summary": "The Livestock, Bulk and Rural Carriers Association is calling on the Australian Government to ensure its proposed Australian Fuel Security Reserve delivers diesel to regional, rural and remote areas.",
+    "published": "2026-10-06T06:19:54+00:00",
+    "source": "Beef Central",
+    "country": "AU"
+  },
+  {
+    "title": "Emergency visa process no substitute for lasting workforce reform",
+    "link": "https://www.beefcentral.com/news/emergency-visa-process-no-substitute-for-lasting-workforce-reform/",
+    "description_clean": "The NFF is calling for urgent reform of Australia\u2019s regional workforce and migration settings, warning the recent emergency process for critical farm worker applications is only a short-term pressure valve.",
+    "summary": "The National Farmers' Federation is calling for urgent reform of Australia's regional workforce and migration settings, warning the recent emergency farm worker process is only a short-term measure.",
+    "published": "2026-10-06T06:08:26+00:00",
+    "source": "Beef Central",
+    "country": "AU"
+  },
+  {
+    "title": "Full clearance for Derby Downs as new generation takes stud to next level",
+    "link": "https://www.stockandland.com.au/story/9360337/derby-downs-poll-dorset-ram-sale-hits-3100-in-full-clearance/?src=rss",
+    "description_clean": "The Marong stud offered and sold 72 Poll Dorset rams.",
+    "summary": "The Marong-based Derby Downs stud achieved a full clearance, selling all 72 Poll Dorset rams as a new generation takes over.",
+    "published": "2026-10-06T06:07:54+00:00",
+    "source": "Stock & Land",
+    "country": "AU"
+  },
+  {
+    "title": "VicGrid says $2.77 million farming impact is 'minor' as it releases VNI West EES",
+    "link": "https://www.stockandland.com.au/story/9363470/vicgrid-faces-backlash-over-3-million-vni-west-farm-impact-claim/?src=rss",
+    "description_clean": "The government body has revealed the project's farming impact.",
+    "summary": "VicGrid described the $2.77 million farming impact of the VNI West project as 'minor' as it released the project's Environment Effects Statement.",
+    "published": "2026-10-06T05:03:12+00:00",
+    "source": "Stock & Land",
+    "country": "AU"
+  },
+  {
+    "title": "Police establish crime scene after body found in northern NSW stockyard",
+    "link": "https://www.theland.com.au/story/9363640/murwillumbah-crime-scene-body-found-in-rural-stock-dip/?src=rss",
+    "description_clean": "Authorities are working to identify a body.",
+    "summary": "Police have established a crime scene after a body was found in a northern NSW stockyard, with authorities working to identify it.",
+    "published": "2026-10-06T04:17:37+00:00",
+    "source": "The Land",
+    "country": "AU"
+  },
+  {
+    "title": "'A race to get it done': harvest machinery optimisation is in high demand",
+    "link": "https://www.farmweekly.com.au/story/9362741/grdc-harvester-workshops-end-as-specialist-reveals-demand/?src=rss",
+    "description_clean": "GRDC harvester workshops have wrapped up - and demand increases.",
+    "summary": "Demand for harvest machinery optimisation is high as GRDC harvester workshops have wrapped up.",
+    "published": "2026-10-06T04:00:00+00:00",
+    "source": "Farm Weekly",
+    "country": "AU"
+  },
+  {
+    "title": "Massey tutor revives 1950s pig farrowing tech",
+    "link": "https://www.farmersweekly.co.nz/technology/massey-tutor-revives-1950s-pig-farrowing-tech/",
+    "description_clean": "Research into safer farrowing huts to be revisited for design project tailored to NZ sows and their piglets. The post Massey tutor revives 1950s pig farrowing tech appeared first on Farmers Weekly .",
+    "summary": "A Massey University tutor is reviving 1950s pig farrowing hut technology for a design project tailored to New Zealand sows and piglets to improve safety.",
+    "published": "2026-10-06T04:00:00+00:00",
+    "source": "Farmers Weekly NZ",
+    "country": "NZ"
+  },
+  {
+    "title": "Drones help tame the last of the wilding pines",
+    "link": "https://www.farmersweekly.co.nz/news/drones-help-tame-the-last-of-the-wilding-pines/",
+    "description_clean": "Stragglers spotted with the help of aerial technology as crews close in on Tekapo River holdouts. The post Drones help tame the last of the wilding pines appeared first on Farmers Weekly .",
+    "summary": "Crews are using drone technology to locate and tackle the last wilding pines near the Tekapo River.",
+    "published": "2026-10-06T03:00:00+00:00",
+    "source": "Farmers Weekly NZ",
+    "country": "NZ"
+  },
+  {
+    "title": "Alliance farmer-shareholders to get cut of $20m",
+    "link": "https://www.farmersweekly.co.nz/news/alliance-farmer-shareholders-to-get-cut-of-20m/",
+    "description_clean": "Payment due later this year in terms of Dawn Meats deal provisions. The post Alliance farmer-shareholders to get cut of $20m appeared first on Farmers Weekly .",
+    "summary": "Alliance farmer-shareholders will receive a share of $20 million later this year under provisions of the Dawn Meats deal.",
+    "published": "2026-10-06T02:30:00+00:00",
+    "source": "Farmers Weekly NZ",
+    "country": "NZ"
+  },
+  {
+    "title": "From one farm problem to a global ag-tech opportunity",
+    "link": "https://www.farmersweekly.co.nz/technology/from-one-farm-problem-to-a-global-ag-tech-opportunity/",
+    "description_clean": "After expanding from fuel monitoring into milk, water and feed technology, Levno is targeting international growth and more solutions for dairy farmers. The post From one farm problem to a global ag-tech opportunity appeared first on Farmers Weekly .",
+    "summary": "Ag-tech company Levno, which expanded from fuel monitoring into milk, water and feed technology, is targeting international growth and more solutions for dairy farmers.",
+    "published": "2026-10-06T02:30:00+00:00",
+    "source": "Farmers Weekly NZ",
+    "country": "NZ"
+  },
+  {
+    "title": "Young cattle breeder betting big on rare breed genetics for commercial herds",
+    "link": "https://www.theland.com.au/story/9362424/makayla-saunders-aims-to-get-british-whites-off-rare-breeds-list/?src=rss",
+    "description_clean": "A young NSW cattle breeder is on a mission to elevate a rare breed.",
+    "summary": "A young NSW cattle breeder is focused on elevating a rare breed's genetics for commercial herds.",
+    "published": "2026-10-06T02:00:00+00:00",
+    "source": "The Land",
+    "country": "AU"
+  },
+  {
+    "title": "Northland Firm's CPD Is Used From NZ to Antarctica",
+    "link": "https://www.ruralnewsgroup.co.nz/rural-news/rural-general-news/trax-equipment-quad-bike-crush-protection-device-northland",
+    "description_clean": "When Northland leather worker Vernon Suckling started making horse saddles 50 years ago, quad bikes and side-by-side vehicles were unheard of. But in the early 1990s, stock horses on farms began to disappear due to a growing preference for quad bikes and later side-by-sides or UTVs. Suckling knew he had to change the direction of his business. Seeing potential in the quad market, in 1991 Suckling launched his first product, a cab for quads called Quad Pod. Over the coming years, as UTVs began replacing quad bikes, Suckling ventured into cab kits and accessories like windscreens and launched a ",
+    "summary": "Northland leather worker Vernon Suckling, who began making horse saddles 50 years ago, shifted his business to quad and UTV cabs and accessories, with products used from NZ to Antarctica.",
+    "published": "2026-10-06T01:55:55+00:00",
+    "source": "Rural News Group",
+    "country": "NZ"
+  },
+  {
+    "title": "Alliance to Pay Up to $20m to Farmer-Shareholders",
+    "link": "https://www.ruralnewsgroup.co.nz/rural-news/rural-general-news/alliance-group-20-million-distribution-farmer-shareholders",
+    "description_clean": "Alliance Group has confirmed that eligible farmer-shareholders who supply and continue to back the business will receive up to $20 million later this year, following the strategic investment partnership with Dawn Meats. Alliance Co-operative Chair Mark Wynne said the planned distribution would include two payments to eligible farmer-shareholders: a dividend for shareholding and a supply rebate for eligible livestock supply. Of the total, 45% will be paid as a dividend and 55% as a supply-based rebate. The dividend and rebate are expected to be distributed to farmers in late 2026. Further Distr",
+    "summary": "Alliance Group confirmed eligible farmer-shareholders will receive up to $20 million in late 2026 following its partnership with Dawn Meats, split 45% dividend and 55% supply-based rebate.",
+    "published": "2026-10-06T01:37:59+00:00",
+    "source": "Rural News Group",
     "country": "NZ"
   },
   {
     "title": "Diecast or plastic, red or green, tractor toys make future machinery lovers",
     "link": "https://www.theland.com.au/story/9359223/farm-toys-proving-valuable-marketing-for-machinery-manufacturers/?src=rss",
     "description_clean": "Mini machinery is proving to be valuable marketing for manufacturers.",
-    "summary": "Toy tractors and miniature machinery are proving to be valuable marketing tools for manufacturers, helping cultivate future machinery enthusiasts.",
+    "summary": "Diecast and plastic tractor toys are proving valuable marketing for machinery manufacturers and attracting future enthusiasts.",
     "published": "2026-10-06T01:00:00+00:00",
     "source": "The Land",
     "country": "AU"
   },
   {
-    "title": "\u2018Talk less and listen more\u2019: Mayor\u2019s message to politicians",
-    "link": "https://www.farmersweekly.co.nz/politics/talk-less-and-listen-more-mayors-message-to-politicians/",
-    "description_clean": "Clutha mayor Jock Martin says council reform must protect grassroots representation and ensure rural communities retain a voice in decisions that affect them. The post \u2018Talk less and listen more\u2019: Mayor\u2019s message to politicians appeared first on Farmers Weekly .",
-    "summary": "Clutha mayor Jock Martin says council reform must protect grassroots representation and ensure rural communities retain a voice in decisions affecting them.",
-    "published": "2026-10-06T01:00:00+00:00",
-    "source": "Farmers Weekly NZ",
+    "title": "Election 2026: What Parties Promise the Primary Sector",
+    "link": "https://www.ruralnewsgroup.co.nz/rural-news/rural-general-news/election-2026-party-policies-primary-sector-farmers",
+    "description_clean": "With a general election under five weeks away, Rural News is asking major political parties about their policies and positions on key issues facing the primary sector. We will run their responses to each question over the next four weeks. The ACT Party and the Greens didn't respond in time. With those in the primary sector facing uncertainty - geopolitical events, looming El Ni\u00f1o and a general election around the corner - what assurances of support can you give the farming community? NZ First There can be absolute assurance that New Zealand First will continue to prioritise the primary sector ",
+    "summary": "With the New Zealand general election under five weeks away, Rural News is surveying major political parties on their primary sector policies, with the ACT Party and Greens not responding in time.",
+    "published": "2026-10-06T00:55:55+00:00",
+    "source": "Rural News Group",
     "country": "NZ"
   },
   {
     "title": "Cattle levy review recommends $1/head increase by 2028",
     "link": "https://www.beefcentral.com/news/cattle-levy-review-recommends-1-head-increase-by-2028/",
     "description_clean": "Australia\u2019s grassfed cattle transaction levy could rise from $5 to $6 a head by July 2028 under recommendations to be put to levy payers at next month\u2019s MLA annual general meeting, with greater emphasis on levy accountability and more funding proposed for industry representation, biosecurity, the National Residue Survey and integrity systems.",
-    "summary": "A levy review recommends Australia's grassfed cattle transaction levy rise from $5 to $6 per head by July 2028, with proposals to be put to levy payers at the MLA annual general meeting, including more funding for industry representation, biosecurity, the National Residue Survey and integrity systems.",
+    "summary": "A levy review recommends raising Australia's grassfed cattle transaction levy from $5 to $6 a head by July 2028, to be voted on at the MLA annual general meeting, with more funding for representation, biosecurity and other systems.",
     "published": "2026-10-06T00:10:42+00:00",
     "source": "Beef Central",
-    "country": "AU"
-  },
-  {
-    "title": "Proposed increase to grass-fed cattle levy, where the money will be spent",
-    "link": "https://www.theland.com.au/story/9362925/cattle-producers-face-1-levy-increase-under-reform-plan/?src=rss",
-    "description_clean": "A new review outlines structural reform and a $1 increase.",
-    "summary": "A new review of the grass-fed cattle levy outlines structural reform and a proposed $1 increase, detailing where the funds would be spent.",
-    "published": "2026-10-06T00:00:00+00:00",
-    "source": "The Land",
-    "country": "AU"
-  },
-  {
-    "title": "Proposed increase to grass-fed cattle levy, where the money will be spent",
-    "link": "https://www.farmweekly.com.au/story/9362925/cattle-producers-face-1-levy-increase-under-reform-plan/?src=rss",
-    "description_clean": "A new review outlines structural reform and a $1 increase.",
-    "summary": "A new review of the grass-fed cattle levy outlines structural reform and a proposed $1 increase, detailing where the funds would be spent.",
-    "published": "2026-10-06T00:00:00+00:00",
-    "source": "Farm Weekly",
-    "country": "AU"
-  },
-  {
-    "title": "Proposed increase to grass-fed cattle levy, where the money will be spent",
-    "link": "https://www.stockandland.com.au/story/9362925/cattle-producers-face-1-levy-increase-under-reform-plan/?src=rss",
-    "description_clean": "A new review outlines structural reform and a $1 increase.",
-    "summary": "A new review of the grass-fed cattle levy outlines structural reform and a proposed $1 increase, detailing where the funds would be spent.",
-    "published": "2026-10-06T00:00:00+00:00",
-    "source": "Stock & Land",
     "country": "AU"
   },
   {
     "title": "Red Meat Sector \"In Great Heart\", Says Nathan Guy",
     "link": "https://www.ruralnewsgroup.co.nz/rural-news/rural-general-news/red-meat-sector-great-heart-nathan-guy-conference",
     "description_clean": "The red meat sector is in great heart. That was the message from Meat Industry Association chair Nathan Guy in his opening address at last week's Red Meat Sector Conference in Wellington. He told the 300 delegates that many good things are happening in the sector and pointed to the investment taking place in the sector - notably the Irish meat processing giant Dawn Meats taking a 65% shareholding in Alliance and ANZCO taking over the successful Greenlea Meats. The theme of the conference was 'managing volatility', appropriate given the myriad of geopolitical events impacting the red meat secto",
-    "summary": "Meat Industry Association chair Nathan Guy told 300 delegates at the Red Meat Sector Conference in Wellington that the sector is in great heart, citing investments such as Dawn Meats' 65% shareholding in Alliance and ANZCO's takeover of Greenlea Meats, with the conference themed 'managing volatility'.",
+    "summary": "Meat Industry Association chair Nathan Guy told delegates at the Red Meat Sector Conference in Wellington that the sector is 'in great heart', citing investments including Dawn Meats and ANZCO.",
     "published": "2026-10-05T23:55:55+00:00",
     "source": "Rural News Group",
     "country": "NZ"
@@ -75,34 +381,16 @@
     "title": "Riverina breeders break 12-year Angus drought in the Borthwick Trophy",
     "link": "https://www.stockandland.com.au/story/9363204/myers-angus-wins-melbourne-royal-shows-borthwick-trophy/?src=rss",
     "description_clean": "The hook and hoof competition judges the best three beef steers.",
-    "summary": "Riverina breeders ended a 12-year Angus drought in the Borthwick Trophy, a hook and hoof competition that judges the best three beef steers.",
+    "summary": "Riverina breeders broke a 12-year Angus drought in the Borthwick Trophy, a hook and hoof competition judging the best three beef steers.",
     "published": "2026-10-05T23:51:53+00:00",
     "source": "Stock & Land",
     "country": "AU"
   },
   {
-    "title": "Tatua success a team effort across the business",
-    "link": "https://www.farmersweekly.co.nz/markets/dairy-markets/tatua-success-a-team-effort-across-the-business/",
-    "description_clean": "All revenue streams performed well, contributing to solid financial result. The post Tatua success a team effort across the business appeared first on Farmers Weekly .",
-    "summary": "Tatua posted a solid financial result, with all revenue streams performing well across the business.",
-    "published": "2026-10-05T23:30:00+00:00",
-    "source": "Farmers Weekly NZ",
-    "country": "NZ"
-  },
-  {
-    "title": "Unlocking new dairy-beef opportunities",
-    "link": "https://www.farmersweekly.co.nz/news/dairy/unlocking-new-dairy-beef-opportunities/",
-    "description_clean": "Farmers will benefit from improved genetics, better systems, stronger coordination across the supply chain, and clearer market pathways. The post Unlocking new dairy-beef opportunities appeared first on Farmers Weekly .",
-    "summary": "New dairy-beef opportunities aim to benefit farmers through improved genetics, better systems, stronger supply chain coordination and clearer market pathways.",
-    "published": "2026-10-05T23:30:00+00:00",
-    "source": "Farmers Weekly NZ",
-    "country": "NZ"
-  },
-  {
     "title": "Paris Agreement: What Are the Costs and Returns to NZ?",
     "link": "https://www.ruralnewsgroup.co.nz/rural-news/rural-opinion/opinion-mandeno-paris-agreement-net-zero-cost",
     "description_clean": "OPINION: We are only weeks from the election, and my vote is looking for a home. I\u2019m sure most farmers would agree that a right-leaning government is more favourable than a left-leaning one for our agricultural sector. But I think it is important to look beyond the sound bites, slogans and social-media memes and examine what this coalition Government has actually done over the past three years. If you don\u2019t dig into the detail, it is very easy to come away with the impression that everything is going just fine. Due to editorial constraints, I will focus on one area: Paris Agreement and Net Zer",
-    "summary": "An opinion piece ahead of the New Zealand election examines the coalition Government's record over the past three years, focusing on the Paris Agreement and Net Zero commitments and their costs and returns for the agricultural sector.",
+    "summary": "An opinion piece examines the NZ coalition Government's record over three years on the Paris Agreement and Net Zero ahead of the election.",
     "published": "2026-10-05T23:08:15+00:00",
     "source": "Rural News Group",
     "country": "NZ"
@@ -111,43 +399,16 @@
     "title": "FAR Eyes NZ Grain as Dairy Supplementary Feed",
     "link": "https://www.ruralnewsgroup.co.nz/rural-news/rural-general-news/far-champion-nz-grain-dairy-supplementary-feed",
     "description_clean": "Dr Scott Champion, Foundation for Arable Research chief executive, says that everyone in the supply chain had a role to play in driving the sector's long-term success. Participants at the recent Arable Sector Forum were actively following up on the five big headings to consider how they could best be addressed. As a research, development and extension organisation, FAR's work would continue to bring a sharp a focus as possible on the things that make a difference to the growing of crops, \"whether that's about improving profitability or reducing costs or whatever it might be\". Champion said FAR",
-    "summary": "Foundation for Arable Research chief executive Dr Scott Champion says the supply chain each has a role in the sector's long-term success, with FAR exploring NZ grain as dairy supplementary feed following the Arable Sector Forum.",
+    "summary": "FAR chief executive Dr Scott Champion discussed the organisation's research role and opportunities for NZ grain as dairy supplementary feed following the recent Arable Sector Forum.",
     "published": "2026-10-05T22:55:55+00:00",
     "source": "Rural News Group",
-    "country": "NZ"
-  },
-  {
-    "title": "An \u2018awesome\u2019 upbringing and parenting in politics: A road trip with Qiulae Wong",
-    "link": "https://www.farmersweekly.co.nz/people/an-awesome-upbringing-and-parenting-in-politics-a-road-trip-with-qiulae-wong/",
-    "description_clean": "The Opportunity party leader opens up about her geeky teenage era, parenting while in politics and her guilty pleasure TV picks in the fourth episode of Power Steering. The post An \u2018awesome\u2019 upbringing and parenting in politics: A road trip with Qiulae Wong appeared first on Farmers Weekly .",
-    "summary": "In the fourth episode of Power Steering, Opportunity party leader Qiulae Wong discusses her teenage years, parenting while in politics and her favourite TV picks.",
-    "published": "2026-10-05T22:44:01+00:00",
-    "source": "Farmers Weekly NZ",
-    "country": "NZ"
-  },
-  {
-    "title": "P\u0101mu appoints Andrew Sliper as chief financial officer",
-    "link": "https://www.farmersweekly.co.nz/news/dairy/pamu-appoints-andrew-sliper-as-chief-financial-officer/",
-    "description_clean": "Chief investment officer promoted to CFO as Steve McJorrow steps down. The post P\u0101mu appoints Andrew Sliper as chief financial officer appeared first on Farmers Weekly .",
-    "summary": "P\u0101mu has appointed chief investment officer Andrew Sliper as its new chief financial officer, as Steve McJorrow steps down.",
-    "published": "2026-10-05T22:30:00+00:00",
-    "source": "Farmers Weekly NZ",
-    "country": "NZ"
-  },
-  {
-    "title": "New digital tool takes aim at NZ\u2019s billion-dollar weed problem",
-    "link": "https://www.farmersweekly.co.nz/technology/new-digital-tool-takes-aim-at-nzs-billion-dollar-weed-problem/",
-    "description_clean": "DOC\u2019s new Smart Weed Alert Tool scans thousands of plant observations to detect emerging weed threats before they have a chance to take hold. The post New digital tool takes aim at NZ\u2019s billion-dollar weed problem appeared first on Farmers Weekly .",
-    "summary": "The Department of Conservation's new Smart Weed Alert Tool scans thousands of plant observations to detect emerging weed threats early, targeting New Zealand's billion-dollar weed problem.",
-    "published": "2026-10-05T22:00:04+00:00",
-    "source": "Farmers Weekly NZ",
     "country": "NZ"
   },
   {
     "title": "Exceptionally picturesque, well-balanced grazing property | Video",
     "link": "https://www.theland.com.au/story/9362410/dulverton-yeramba-1600-acre-wallabadah-cattle-property-listed/?src=rss",
     "description_clean": "Includes open grazing country as well as productive creek flats.",
-    "summary": "A grazing property for sale features open grazing country as well as productive creek flats.",
+    "summary": "A picturesque, well-balanced grazing property featuring open grazing country and productive creek flats is being offered for sale.",
     "published": "2026-10-05T22:00:00+00:00",
     "source": "The Land",
     "country": "AU"
@@ -156,7 +417,7 @@
     "title": "How the Antonios have bulked up their own nitrogen banks with pasture legumes",
     "link": "https://www.farmweekly.com.au/story/9363100/terry-antonio-cuts-1000ha-of-wheat-for-clover-amid-urea-shock/?src=rss",
     "description_clean": "The Antonios swapped 1000ha of wheat for Diamanti bladder clover.",
-    "summary": "The Antonios swapped 1000ha of wheat for Diamanti bladder clover to build up their nitrogen banks using pasture legumes.",
+    "summary": "The Antonio family swapped 1000ha of wheat for Diamanti bladder clover to build up their nitrogen banks with pasture legumes.",
     "published": "2026-10-05T22:00:00+00:00",
     "source": "Farm Weekly",
     "country": "AU"
@@ -165,43 +426,25 @@
     "title": "Patterson: Rural NZ Faces a \"Massive\" Infrastructure Deficit",
     "link": "https://www.ruralnewsgroup.co.nz/rural-news/rural-general-news/mark-patterson-rural-infrastructure-deficit-broadband-health",
     "description_clean": "The Minister for Rural Communities, Mark Patterson, says there's a massive infrastructure deficit in rural areas. He says this needs to be fixed because it's inhibiting development in these areas. He cites a report by the combined Chambers of Commerce of the South Island which points out the funding for infrastructure across the country is wrong because it prioritises population growth over economic growth. Patterson says, for example, the South Island is only getting 11% of the national roading funding. Yet, he says, there are rural roads in the South Island that need resealing and bridges th",
-    "summary": "Minister for Rural Communities Mark Patterson says rural areas face a massive infrastructure deficit inhibiting development, citing a Chambers of Commerce report that funding prioritises population growth over economic growth, with the South Island receiving only 11% of national roading funding.",
+    "summary": "Minister for Rural Communities Mark Patterson says rural New Zealand faces a massive infrastructure deficit, noting the South Island receives only 11% of national roading funding.",
     "published": "2026-10-05T21:55:55+00:00",
     "source": "Rural News Group",
-    "country": "NZ"
-  },
-  {
-    "title": "El Ni\u00f1o threatens to turn up the heat on Waikato farming",
-    "link": "https://www.farmersweekly.co.nz/news/el-nino-threatens-to-turn-up-the-heat-on-waikato-farming/",
-    "description_clean": "Drought, reduced pasture growth and animal heat stress are among the risks facing farmers as a hotter, drier summer approaches. The post El Ni\u00f1o threatens to turn up the heat on Waikato farming appeared first on Farmers Weekly .",
-    "summary": "El Ni\u00f1o threatens Waikato farming with risks including drought, reduced pasture growth and animal heat stress as a hotter, drier summer approaches.",
-    "published": "2026-10-05T21:03:25+00:00",
-    "source": "Farmers Weekly NZ",
     "country": "NZ"
   },
   {
     "title": "NZ Red Meat Exports Hit $867m in August, Up 23%",
     "link": "https://www.ruralnewsgroup.co.nz/rural-news/rural-general-news/nz-red-meat-exports-august-867-million-up-23-percent",
     "description_clean": "New Zealand's red meat and fifth-quarter exports reached $867 million in August, up 23% on the same month last year, as stronger returns lifted earnings across all major markets. Sheepmeat exports were worth $309m, 20% more than in August last year. China increased 46% to $71m, while the United Kingdom rose 118% to $54m and became the third-largest sheepmeat market by value for the month. Beef exports increased 26% in value to $403m. The US remained the leading market at $155m, up 30% while China rose 12% to $79m and Canada increased 55% to $18m. Fifth-quarter exports were worth $156m, an incr",
-    "summary": "New Zealand's red meat and fifth-quarter exports reached $867 million in August, up 23% year-on-year, with sheepmeat worth $309m and beef up 26% to $403m, as returns lifted across major markets including China, the UK, the US and Canada.",
+    "summary": "New Zealand's red meat and fifth-quarter exports reached $867 million in August, up 23% year-on-year, with sheepmeat worth $309m and beef worth $403m amid stronger returns across major markets.",
     "published": "2026-10-05T20:55:55+00:00",
     "source": "Rural News Group",
-    "country": "NZ"
-  },
-  {
-    "title": "Politicians react as poll shakes up election race",
-    "link": "https://www.farmersweekly.co.nz/politics/party-leaders-react-as-poll-shakes-up-election-race/",
-    "description_clean": "National concedes it has work to do, Labour claims momentum and the Greens and Opportunity welcome gains after the latest RNZ Reid Research poll. The post Politicians react as poll shakes up election race appeared first on Farmers Weekly .",
-    "summary": "Politicians reacted to the latest RNZ Reid Research poll, with National conceding it has work to do, Labour claiming momentum, and the Greens and Opportunity welcoming gains.",
-    "published": "2026-10-05T20:55:10+00:00",
-    "source": "Farmers Weekly NZ",
     "country": "NZ"
   },
   {
     "title": "P\u0101mu Braces for $30m Hit From Rising Farm Costs",
     "link": "https://www.ruralnewsgroup.co.nz/rural-news/rural-general-news/pamu-input-costs-30-million-profit-forecast-2027",
     "description_clean": "State farmer P\u0101mu is bracing for a $30 million hit from soaring farm input costs this financial year. After posting a record net operating profit of $113 million for the 2026 financial year, the SOE has trimmed back its forecast 2027 net operating profit to a range of $77 million to $87m in its integrated report released last week. In August, P\u0101mu reported a NOP of $113 million, up from $49 million the previous year, alongside a net profit after tax of $160 million. The Government received $25m in dividends from P\u0101mu for 2026, including a $10m special dividend reflecting Fonterra's special cap",
-    "summary": "State farmer P\u0101mu is bracing for a $30 million hit from rising farm input costs this year, trimming its forecast 2027 net operating profit to $77m-$87m after posting a record $113 million net operating profit for 2026.",
+    "summary": "State farmer P\u0101mu is bracing for a $30 million hit from rising input costs, trimming its 2027 net operating profit forecast to $77-87 million after a record $113 million result in 2026.",
     "published": "2026-10-05T19:55:55+00:00",
     "source": "Rural News Group",
     "country": "NZ"
@@ -210,7 +453,7 @@
     "title": "Tooling up to stop the next 'massive weed' before it gets started",
     "link": "https://www.rnz.co.nz/news/environment/1749559/tooling-up-to-stop-the-next-massive-weed-before-it-gets-started",
     "description_clean": "It's hoped the Smart Weed Alert Tool can put a big dent in the country's billion-dollar weed control problem.",
-    "summary": "The Smart Weed Alert Tool is hoped to help reduce New Zealand's billion-dollar weed control problem by detecting emerging weed threats early.",
+    "summary": "The Smart Weed Alert Tool is hoped to help address the country's billion-dollar weed control problem by stopping the next 'massive weed' before it establishes.",
     "published": "2026-10-05T19:54:30+00:00",
     "source": "RNZ Country",
     "country": "NZ"
@@ -219,198 +462,27 @@
     "title": "Fertiliser volatility drives farmers to take back control with storage plans",
     "link": "https://www.theland.com.au/story/9362435/sam-armytage-invests-in-fertiliser-shed-amid-market-spikes/?src=rss",
     "description_clean": "Global price spikes drive farmers to secure their own supplies.",
-    "summary": "Global fertiliser price spikes are driving farmers to secure their own supplies through storage plans to take back control of their input costs.",
+    "summary": "Global fertiliser price spikes are driving farmers to secure their own supplies through storage plans.",
     "published": "2026-10-05T19:45:00+00:00",
     "source": "The Land",
     "country": "AU"
   },
   {
-    "title": "Fonterra announces record organic milk price",
-    "link": "https://www.farmersweekly.co.nz/markets/dairy-markets/fonterra-announces-record-organic-milk-price/",
-    "description_clean": "Co-op working to expand its organic milk pool in the North Island and welcome South Island farmers into the programme. The post Fonterra announces record organic milk price appeared first on Farmers Weekly .",
-    "summary": "Fonterra announced a record organic milk price and is working to expand its organic milk pool in the North Island while welcoming South Island farmers into the programme.",
-    "published": "2026-10-05T19:35:52+00:00",
-    "source": "Farmers Weekly NZ",
-    "country": "NZ"
-  },
-  {
     "title": "'Pressure's on': gaps in eID compliance revealed ahead of January 1 deadline",
     "link": "https://www.theland.com.au/story/9362631/eid-compliance-numbers-released-see-how-your-district-stacks-up/?src=rss",
     "description_clean": "New figures show stark divides in sheep and goat eID tagging.",
-    "summary": "New figures reveal gaps and divides in sheep and goat electronic identification (eID) tagging compliance ahead of the January 1 deadline.",
+    "summary": "New figures reveal gaps and stark divides in sheep and goat eID tagging compliance ahead of the January 1 deadline.",
     "published": "2026-10-05T19:00:00+00:00",
     "source": "The Land",
-    "country": "AU"
-  },
-  {
-    "title": "Political foes find rare common ground as AI boom puts pressure on farmland",
-    "link": "https://www.theland.com.au/story/9362882/regional-australia-ai-data-centre-boom-triggers-policy-revamp/?src=rss",
-    "description_clean": "The politics of Australia's energy build-out is changing shape.",
-    "summary": "Political opponents have found rare common ground as the AI boom and Australia's energy build-out put pressure on farmland.",
-    "published": "2026-10-05T19:00:00+00:00",
-    "source": "The Land",
-    "country": "AU"
-  },
-  {
-    "title": "Political foes find rare common ground as AI boom puts pressure on farmland",
-    "link": "https://www.farmweekly.com.au/story/9362882/regional-australia-ai-data-centre-boom-triggers-policy-revamp/?src=rss",
-    "description_clean": "The politics of Australia's energy build-out is changing shape.",
-    "summary": "Political opponents have found rare common ground as the AI boom and Australia's energy build-out put pressure on farmland.",
-    "published": "2026-10-05T19:00:00+00:00",
-    "source": "Farm Weekly",
-    "country": "AU"
-  },
-  {
-    "title": "Political foes find rare common ground as AI boom puts pressure on farmland",
-    "link": "https://www.stockandland.com.au/story/9362882/regional-australia-ai-data-centre-boom-triggers-policy-revamp/?src=rss",
-    "description_clean": "The politics of Australia's energy build-out is changing shape.",
-    "summary": "Political opponents have found rare common ground as the AI boom and Australia's energy build-out put pressure on farmland.",
-    "published": "2026-10-05T19:00:00+00:00",
-    "source": "Stock & Land",
     "country": "AU"
   },
   {
     "title": "Arable Sector Costs Are the Biggest Problem, Says FAR",
     "link": "https://www.ruralnewsgroup.co.nz/rural-news/rural-general-news/arable-sector-costs-biggest-problem-far-champion",
     "description_clean": "Flat pricing in the face of significant increases in costs is the greatest problem facing the arable sector, says Foundation for Arable Research (FAR) chief executive Dr Scott Champion. Champion recently acted as facilitator for an Arable Sector Forum that brought together FAR, Federated Farmers, the Ministry for Primary Industries and growers, to grapple with an exodus of farmers reportedly leaving the sector in search of better returns. Champion told Rural News that all the key inputs - fuel, fertiliser, machinery, agrichemicals - had outpaced any gains on the product side. \"Some of those ar",
-    "summary": "FAR chief executive Dr Scott Champion says flat pricing combined with significant cost increases in fuel, fertiliser, machinery and agrichemicals is the biggest problem facing the arable sector, with an Arable Sector Forum convened to address farmers leaving for better returns.",
+    "summary": "FAR chief executive Dr Scott Champion says flat pricing combined with rising costs for fuel, fertiliser, machinery and agrichemicals is the greatest problem facing the arable sector, amid farmers leaving for better returns.",
     "published": "2026-10-05T18:55:55+00:00",
     "source": "Rural News Group",
-    "country": "NZ"
-  },
-  {
-    "title": "Chewed canola pods signal elevated mouse activity across northern grainbelt",
-    "link": "https://www.farmweekly.com.au/story/9363096/wa-grainbelt-mouse-numbers-rise-as-canola-harvest-approaches/?src=rss",
-    "description_clean": "Monitoring paddock activity can safeguard access to vital baits.",
-    "summary": "Chewed canola pods are signalling elevated mouse activity across the northern grainbelt, with monitoring of paddock activity recommended to safeguard access to baits.",
-    "published": "2026-10-05T09:00:00+00:00",
-    "source": "Farm Weekly",
-    "country": "AU"
-  },
-  {
-    "title": "NSW Government releases cattle tick strategy",
-    "link": "https://www.beefcentral.com/news/nsw-government-releases-cattle-tick-strategy/",
-    "description_clean": "The New South Wales Government has released its new cattle tick strategy after a $7 million investment earlier this year aimed at reinvigorating the state's longstanding tick program.",
-    "summary": "The New South Wales Government has released a new cattle tick strategy following a $7 million investment earlier this year to reinvigorate the state's tick program.",
-    "published": "2026-10-05T06:00:21+00:00",
-    "source": "Beef Central",
-    "country": "AU"
-  },
-  {
-    "title": "People on the Move: Appointments, retirements, achievements",
-    "link": "https://www.beefcentral.com/news/people-on-the-move-appointments-retirements-achievements-99/",
-    "description_clean": "New feedlot consultancy for Andrew Talbot | MLA\u2019s Canada staff appointment | Allison takes board seat, chairmanship with WA\u2019s Craig Mostyn Group | McKillop completes RMAC chairmanship; new appointment close | Changes ahead for AMPC board | New chair for agri-lender Rabobank | New recruit for Agricultural Appointments Team | Returning chief vet for NT",
-    "summary": "A roundup of agricultural appointments, retirements and achievements, including a new feedlot consultancy for Andrew Talbot, MLA's Canada appointment, board changes at Craig Mostyn Group, RMAC, AMPC and Rabobank, and a returning chief vet for the NT.",
-    "published": "2026-10-05T05:48:57+00:00",
-    "source": "Beef Central",
-    "country": "AU"
-  },
-  {
-    "title": "CFA brigade 'goes offline' after $10,000 worth of equipment stolen in ram-raid",
-    "link": "https://www.stockandland.com.au/story/9362832/chocolyn-cfa-fire-station-goes-offline-after-10000-ram-raid/?src=rss",
-    "description_clean": "Regional fire stations are being systematically targeted by thieves.",
-    "summary": "A CFA brigade has gone offline after $10,000 worth of equipment was stolen in a ram-raid, with regional fire stations being systematically targeted by thieves.",
-    "published": "2026-10-05T04:42:49+00:00",
-    "source": "Stock & Land",
-    "country": "AU"
-  },
-  {
-    "title": "Young researcher Whitney Payne finds her calling among northern pastoralists",
-    "link": "https://www.farmweekly.com.au/story/9360317/whitney-payne-uwa-study-tackles-pilbara-cattle-heat-stress/?src=rss",
-    "description_clean": "Passion for the Pilbara drives crucial livestock heat research.",
-    "summary": "Young researcher Whitney Payne has found her calling among northern pastoralists, with her passion for the Pilbara driving crucial livestock heat research.",
-    "published": "2026-10-05T04:00:00+00:00",
-    "source": "Farm Weekly",
-    "country": "AU"
-  },
-  {
-    "title": "Rain deluge set to slow saleyard numbers after breaking dry start to spring",
-    "link": "https://www.stockandland.com.au/story/9362788/victoria-cattle-supply-to-slow-as-100mm-rain-breaks-dry-spell/?src=rss",
-    "description_clean": "Some parts of Victoria received triple-figure rainfall totals.",
-    "summary": "A rain deluge, including triple-figure totals in parts of Victoria, is set to slow saleyard numbers after breaking a dry start to spring.",
-    "published": "2026-10-05T03:50:04+00:00",
-    "source": "Stock & Land",
-    "country": "AU"
-  },
-  {
-    "title": "Man shot dead by police after crash had firearms offences on his record",
-    "link": "https://www.theland.com.au/story/9362849/police-fatally-shoot-armed-driver-after-southern-nsw-car-crash/?src=rss",
-    "description_clean": "The 45-year-old allegedly pointed a loaded rifle at an officer.",
-    "summary": "A 45-year-old man shot dead by police after a crash had firearms offences on his record and allegedly pointed a loaded rifle at an officer.",
-    "published": "2026-10-05T03:38:53+00:00",
-    "source": "The Land",
-    "country": "AU"
-  },
-  {
-    "title": "VFF says One Nation's agricultural policy lacks 'actual meat on the bones'",
-    "link": "https://www.stockandland.com.au/story/9362672/vff-presses-one-nation-on-the-partys-agriculture-policies/?src=rss",
-    "description_clean": "The farming group has released its election priorities.",
-    "summary": "The Victorian Farmers Federation says One Nation's agricultural policy lacks substance, as the farming group released its own election priorities.",
-    "published": "2026-10-05T02:28:23+00:00",
-    "source": "Stock & Land",
-    "country": "AU"
-  },
-  {
-    "title": "Rugby boots to white tables: how a small town has raised thousands for cancer",
-    "link": "https://www.theland.com.au/story/9358316/hillston-hogs-event-raises-225k-as-rugby-game-turns-lunch/?src=rss",
-    "description_clean": "The Hillston event has grown bigger every year.",
-    "summary": "A Hillston community event that has grown each year has raised thousands of dollars for cancer.",
-    "published": "2026-10-05T02:00:00+00:00",
-    "source": "The Land",
-    "country": "AU"
-  },
-  {
-    "title": "Boutique Mornington Peninsula stud claims top Melbourne Royal Show honours",
-    "link": "https://www.stockandland.com.au/story/9362357/four-chases-takes-supreme-cattle-title-at-melbourne-royal-show/?src=rss",
-    "description_clean": "Limousins won the major sash in the hotly-contested competition.",
-    "summary": "A boutique Mornington Peninsula stud won top honours at the Melbourne Royal Show, with its Limousins claiming the major sash in the competition.",
-    "published": "2026-10-05T00:17:28+00:00",
-    "source": "Stock & Land",
-    "country": "AU"
-  },
-  {
-    "title": "Bidder picked for 88,500ha sheep station after national interest in lease",
-    "link": "https://www.theland.com.au/story/9362452/mooleulooloo-station-winner-selected-for-outback-sa-lease/?src=rss",
-    "description_clean": "Nationwide demand secures winner for rare outback station lease.",
-    "summary": "A bidder has been selected for an 88,500ha sheep station after nationwide interest in the rare outback station lease.",
-    "published": "2026-10-04T23:30:00+00:00",
-    "source": "The Land",
-    "country": "AU"
-  },
-  {
-    "title": "Carcase traits lift competition, prices for Springwaters Poll Dorset rams",
-    "link": "https://www.theland.com.au/story/9362440/springwaters-poll-dorset-ram-sale-2026-top-price-result-average/?src=rss",
-    "description_clean": "Buyers targeted the top of the line with spirited competition.",
-    "summary": "Carcase traits drove spirited competition and strong prices for Springwaters Poll Dorset rams, with buyers targeting the top of the line.",
-    "published": "2026-10-04T23:27:00+00:00",
-    "source": "The Land",
-    "country": "AU"
-  },
-  {
-    "title": "From paddocks to code: how our farmers are using artificial intelligence",
-    "link": "https://www.theland.com.au/story/9357090/how-australian-farmers-are-putting-ai-to-work-in-agriculture/?src=rss",
-    "description_clean": "How AI has the potential to preserve generations of knowledge.",
-    "summary": "An article explores how Australian farmers are using artificial intelligence, including its potential to preserve generations of knowledge.",
-    "published": "2026-10-04T19:30:00+00:00",
-    "source": "The Land",
-    "country": "AU"
-  },
-  {
-    "title": "AgriZero NZ gets funding boost of $117m, new partners come on board",
-    "link": "https://www.rnz.co.nz/news/country/1736241/agrizero-nz-gets-funding-boost-of-117m-new-partners-come-on-board",
-    "description_clean": "AgriZeroNZ says it's on track to deliver emissions fighting tools to farmers by 2030.",
-    "summary": "AgriZeroNZ has received a $117 million funding boost and new partners, saying it is on track to deliver emissions-fighting tools to farmers by 2030.",
-    "published": "2026-10-04T18:50:59+00:00",
-    "source": "RNZ Country",
-    "country": "NZ"
-  },
-  {
-    "title": "NZ goat formula co-operative expands to China, United States",
-    "link": "https://www.rnz.co.nz/news/business/1735192/nz-goat-formula-co-operative-expands-to-china-united-states",
-    "description_clean": "Some consumers select goat milk products over cow's milk for health benefits.",
-    "summary": "A New Zealand goat milk formula co-operative has expanded into China and the United States, with some consumers choosing goat milk products over cow's milk for health benefits.",
-    "published": "2026-10-04T17:42:59+00:00",
-    "source": "RNZ Country",
     "country": "NZ"
   }
 ]
